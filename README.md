@@ -6,7 +6,7 @@ CS 252 Notebooks for Spring 2022
     * Make sure you set the repository to 'Private'
     * Make sure you add (ajstent) as a Collaborator
 * Using git on the commandline (including in a jupyterhub terminal):
-  * Getting your fork (copy) of the repository: git clone git@github.com:<yourusername>/CS252S22.git
+  * Getting your fork (copy) of the repository: git clone git@github.com:(yourusername)/CS252S22.git
   * Updating your repository after you have...
     * Changed a file: 
       * git commit -m 'This is how I changed these files' .
@@ -25,4 +25,4 @@ CS 252 Notebooks for Spring 2022
     * copy the text in .ssh/id_rsa.pub into https://github.com/settings/keys and call it colby-jupyterhub
   * then, you need to clone (checkout) the repository
     * in the terminal window, make sure you are in the folder where you want to be and type: 
-      * git clone git@github.com:<yourusername>/CS252S22.git 
+      * git clone git@github.com:(yourusername)/CS252S22.git 
