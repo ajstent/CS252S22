@@ -24,5 +24,11 @@ CS 252 Notebooks for Spring 2022
     * type ssh-keygen and follow the instructions; you don't need to supply a name or passcode
     * copy the text in .ssh/id_rsa.pub into https://github.com/settings/keys and call it colby-jupyterhub
   * then, you need to clone (checkout) the repository
-    * in the terminal window, make sure you are in the folder where you want to be and type: 
-      * git clone git@github.com:(yourusername)/CS252S22.git 
+    * in the terminal window, make sure you are in the folder where you want to be and type: git clone git@github.com:(yourusername)/CS252S22.git 
+ 
+* Syncing your fork of this repository with my copy:
+ * Add a new remote upstream repository; you only need to do this once: git remote add upstream https://github.com/ajstent/CS252S22.git
+ * sync: type these in order
+   * git fetch upstream
+   * git checkout main
+   * git merge upstream/main
