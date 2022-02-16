@@ -30,3 +30,4 @@ CS 252 Notebooks for Spring 2022
   * Add a submodule for this repository: git submodule add git@github.com:ajstent/CS252S22.git
   * Each time you want an update, go into the CS252S22 subfolder in your folder, and then do: git fetch; git merge origin/main
   * Do **not** edit the files in the subdirectory; copy what you want to modify up into your main directory
+  * If you are using VSCode, this plugin will keep the submodule in sync for you: https://marketplace.visualstudio.com/items?itemName=ivanhofer.git-assistant
