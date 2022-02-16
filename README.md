@@ -27,6 +27,6 @@ CS 252 Notebooks for Spring 2022
     * in the terminal window, make sure you are in the folder where you want to be and type: git clone git@github.com:(yourusername)/CS252S22.git 
  
 * If you want to get regular updates of this repository into your repository, then do the following:
- * Add a submodule for this repository: git submodule add git@github.com:ajstent/CS252S22.git
- * Each time you want an update, go into the CS252S22 subfolder in your folder, and then do: git fetch; git merge origin/main
- * Do **not** edit the files in the subdirectory; copy what you want to modify up into your main directory
+  * Add a submodule for this repository: git submodule add git@github.com:ajstent/CS252S22.git
+  * Each time you want an update, go into the CS252S22 subfolder in your folder, and then do: git fetch; git merge origin/main
+  * Do **not** edit the files in the subdirectory; copy what you want to modify up into your main directory
