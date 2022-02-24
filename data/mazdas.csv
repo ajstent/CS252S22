@@ -1,0 +1,1500 @@
+﻿region,price,year,manufacturer,model,condition,odometer,title_status,transmission,type,paint_color,state,lat,long
+string,numeric,numeric,string,string,enum,numeric,enum,enum,enum,enum,enum,numeric,numeric
+birmingham,6900,2010,mazda,3i,good,165255,rebuilt,automatic,sedan,grey,al,33.243013,-86.81742
+huntsville / decatur,16306,2017,mazda,mazda3 4-door,,101982,clean,automatic,sedan,red,al,34.737799,-86.650889
+mobile,800,2006,mazda,3,fair,1234,clean,automatic,sedan,grey,al,30.5222,-87.7457
+anchorage / mat-su,7500,2011,mazda,3 i sport,excellent,42000,rebuilt,automatic,sedan,silver,ak,61.5923,-149.3959
+anchorage / mat-su,5500,2010,mazda,3,good,114600,clean,automatic,sedan,red,ak,61.588262,-149.405651
+anchorage / mat-su,17750,2017,mazda,3 sport,excellent,9157,clean,automatic,sedan,grey,ak,61.21778,-149.869995
+anchorage / mat-su,10194,2013,mazda,mazda3,,87638,clean,other,sedan,black,ak,61.176984,-149.86941
+anchorage / mat-su,18991,2018,mazda,mazda3 4-door,,21890,clean,automatic,sedan,silver,ak,61.180231,-149.869503
+anchorage / mat-su,18991,2018,mazda,mazda3 4-door,,21890,clean,automatic,sedan,silver,ak,61.180231,-149.869503
+anchorage / mat-su,18991,2018,mazda,mazda3 4-door,,21890,clean,automatic,sedan,silver,ak,61.180231,-149.869503
+anchorage / mat-su,17750,2017,mazda,3 sport,excellent,9157,clean,automatic,sedan,grey,ak,61.21778,-149.869995
+anchorage / mat-su,18991,2018,mazda,mazda3 4-door,,21890,clean,automatic,sedan,silver,ak,61.180231,-149.869503
+anchorage / mat-su,5500,2008,mazda,3,,87000,rebuilt,automatic,,,ak,61.50814,-149.381618
+anchorage / mat-su,18991,2018,mazda,mazda3 4-door,,21890,clean,automatic,sedan,silver,ak,61.180231,-149.869503
+anchorage / mat-su,13999,2016,mazda,mazda3,,82982,clean,automatic,hatchback,blue,ak,61.180231,-149.869503
+flagstaff / sedona,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,az,33.7865,-84.4454
+mohave county,9871,2015,mazda,mazda3,,120683,,automatic,hatchback,blue,az,34.544258,-114.352806
+phoenix,8499,2011,mazda,3 s grand touring,good,123000,clean,automatic,sedan,red,az,33.415663,-111.657894
+phoenix,2699,2007,mazda,mazda3 i sport,,243286,clean,manual,sedan,black,az,33.414351,-111.880831
+phoenix,4500,2010,mazda,3,excellent,128000,clean,automatic,sedan,silver,az,33.5623,-112.0559
+phoenix,2699,2007,mazda,mazda3 i sport,,243286,clean,manual,sedan,black,az,33.414351,-111.880831
+phoenix,4990,2011,mazda,3,excellent,147000,clean,automatic,,,az,33.3301,-111.8632
+phoenix,5999,2012,mazda,mazda3,excellent,136000,clean,manual,sedan,grey,az,33.466092,-112.120961
+phoenix,6994,2012,mazda,3 i touring,,161035,clean,automatic,,,az,33.3105,-111.8239
+phoenix,15990,2013,mazda,mazda3 i touring hatchback,good,26490,clean,other,hatchback,red,az,33.5,-112.05
+phoenix,18590,2014,mazda,mazda3 s grand touring,good,42371,clean,other,sedan,silver,az,33.5,-112.05
+phoenix,18990,2016,mazda,mazda3 i touring hatchback,good,32642,clean,other,hatchback,,az,33.44,-111.8
+phoenix,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,az,33.51,-112.36
+phoenix,6800,2012,mazda,mazda3,good,114000,clean,automatic,sedan,black,az,33.479338,-112.507188
+prescott,17433,2017,mazda,mazda3,,35564,clean,automatic,other,white,az,34.6019,-112.3264
+prescott,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,az,34.62,-112.42
+prescott,8900,2011,mazda,3,like new,93448,clean,automatic,hatchback,white,az,34.543321,-112.45584
+prescott,17433,2017,mazda,mazda3,,35564,clean,automatic,other,white,az,34.6019,-112.3264
+tucson,4990,2009,mazda,3,,115860,clean,automatic,sedan,,az,32.206176,-110.841007
+tucson,4990,2010,mazda,mazda3,excellent,162648,clean,manual,sedan,,az,32.236664,-110.866049
+tucson,0,2018,mazda,mazda3,,45030,clean,automatic,,,az,33.633522,-111.91416
+tucson,2950,2008,mazda,3,,220000,clean,manual,,,az,32.2138,-110.824
+tucson,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,az,32.21,-110.96
+tucson,14995,2015,mazda,3,excellent,22000,clean,automatic,sedan,black,az,32.25,-110.8869
+tucson,8995,2013,mazda,mazda3 i sport,,96924,clean,automatic,sedan,black,az,32.200727,-110.874757
+tucson,4990,2009,mazda,mazda3,excellent,154345,clean,automatic,sedan,black,az,32.236664,-110.866049
+tucson,11995,2013,mazda,3,excellent,48000,clean,automatic,sedan,red,az,32.25,-110.8869
+tucson,4990,2009,mazda,mazda3,excellent,154345,clean,automatic,sedan,black,az,32.236664,-110.866049
+tucson,14000,2015,mazda,3,like new,55392,clean,automatic,,black,az,32.1985,-110.8802
+tucson,8900,2012,mazda,"3 ,2012",excellent,76300,clean,automatic,,black,az,32.2519,-110.82
+tucson,10995,2013,mazda,mazda3,excellent,69000,clean,automatic,sedan,,az,32.25,-110.8869
+tucson,4990,2009,mazda,mazda3,excellent,154345,clean,automatic,sedan,black,az,32.236664,-110.866049
+tucson,16995,2018,mazda,mazda3 5-door,excellent,31000,clean,automatic,sedan,silver,az,32.25,-110.8869
+tucson,16590,2013,mazda,mazda3 i grand touring,good,33243,clean,automatic,hatchback,white,az,32.21,-110.96
+tucson,7999,2012,mazda,mazda3,excellent,103433,clean,automatic,sedan,blue,az,32.257918,-110.961503
+fayetteville,4500,2004,mazda,3,excellent,141219,clean,automatic,hatchback,grey,ar,36.165106,-94.144506
+fayetteville,20500,2019,mazda,3,like new,12000,clean,automatic,hatchback,blue,ar,36.3577,-94.2224
+bakersfield,20590,2019,mazda,mazda3 select sedan 4d,good,19900,clean,other,sedan,,ca,35.38,-119.02
+bakersfield,20990,2019,mazda,mazda3 preferred sedan 4d,good,6131,clean,other,sedan,white,ca,35.38,-119.02
+bakersfield,16998,2017,mazda,mazda3 4-door,excellent,60389,clean,automatic,sedan,,ca,35.283445,-120.658029
+bakersfield,18977,2018,mazda,mazda3 4-door,excellent,35073,clean,automatic,sedan,,ca,35.283445,-120.658029
+bakersfield,14999,2016,mazda,mazda3,excellent,43634,clean,automatic,sedan,,ca,34.227125,-118.467977
+bakersfield,14999,2016,mazda,mazda3,excellent,32600,clean,automatic,sedan,,ca,34.227125,-118.467977
+bakersfield,9500,2014,mazda,3,excellent,98500,clean,automatic,sedan,white,ca,35.139037,-118.481112
+chico,10495,2013,mazda,3,,92145,clean,automatic,hatchback,red,ca,38.655305,-120.953858
+chico,8880,2014,mazda,mazda3,excellent,,clean,manual,sedan,,ca,38.6093,-121.4443
+chico,8995,2013,mazda,3i sv,excellent,123687,clean,automatic,sedan,silver,ca,39.145315,-121.59608
+chico,10495,2013,mazda,3,,92145,clean,automatic,hatchback,red,ca,38.655305,-120.953858
+chico,8995,2013,mazda,mazda3,excellent,94262,clean,automatic,sedan,black,ca,38.611926,-121.423565
+chico,7777,2011,mazda,mazda3,excellent,145217,clean,manual,sedan,,ca,38.611926,-121.423565
+fresno / madera,20590,2019,mazda,mazda3 select sedan 4d,good,19900,clean,other,sedan,,ca,33.779214,-84.411811
+fresno / madera,9950,2012,mazda,mazda3,excellent,111638,clean,automatic,sedan,grey,ca,36.905852,-119.794299
+fresno / madera,20990,2019,mazda,mazda3 preferred sedan 4d,good,6131,clean,other,sedan,white,ca,33.779214,-84.411811
+fresno / madera,9950,2012,mazda,mazda3,excellent,111638,clean,automatic,sedan,grey,ca,36.905852,-119.794299
+fresno / madera,12000,2016,mazda,3,good,86000,clean,automatic,sedan,silver,ca,36.868713,-119.702911
+fresno / madera,16998,2017,mazda,mazda3 4-door,excellent,60389,clean,automatic,sedan,,ca,35.283445,-120.658029
+fresno / madera,18977,2018,mazda,mazda3 4-door,excellent,35073,clean,automatic,sedan,,ca,35.283445,-120.658029
+fresno / madera,8995,2013,mazda,mazda3,excellent,94262,clean,automatic,sedan,black,ca,38.611926,-121.423565
+fresno / madera,7777,2011,mazda,mazda3,excellent,145217,clean,manual,sedan,,ca,38.611926,-121.423565
+fresno / madera,8999,2012,mazda,mazda3,excellent,132185,clean,automatic,sedan,blue,ca,37.803997,-121.216343
+gold country,5999,2013,mazda,mazda3 i sv,,187030,clean,manual,sedan,white,ca,38.905363,-121.0774
+gold country,10999,2016,mazda,mazda3 i sport,excellent,79390,clean,manual,sedan,,ca,38.614952,-121.271667
+hanford-corcoran,20990,2019,mazda,mazda3 preferred sedan 4d,good,6131,clean,other,sedan,white,ca,36.27,-119.63
+imperial county,0,2018,mazda,mazda3,,33957,clean,automatic,sedan,,ca,33.755638,-116.286258
+inland empire,8900,2010,mazda,mazda3,excellent,0,clean,automatic,sedan,white,ca,33.875577,-117.570384
+inland empire,9900,2013,mazda,mazda3,excellent,84686,clean,automatic,sedan,black,ca,33.875577,-117.570384
+inland empire,0,2016,mazda,3,,40758,clean,automatic,sedan,grey,ca,33.716932,-117.867989
+inland empire,5995,2008,mazda,3,excellent,82000,clean,automatic,sedan,grey,ca,33.569,-117.1783
+inland empire,11950,2016,mazda,mazda3,,71000,clean,automatic,sedan,,ca,33.888841,-118.352073
+inland empire,7997,2011,mazda,mazda3 s sport,,130562,clean,automatic,hatchback,white,ca,33.505381,-117.155728
+inland empire,5490,2009,mazda,mazda3,,166449,clean,automatic,hatchback,white,ca,34.090791,-117.907439
+inland empire,6999,2012,mazda,mazda3 i grand touring,good,122704,clean,automatic,sedan,,ca,33.745583,-116.361979
+inland empire,0,2016,mazda,3,,40758,clean,automatic,sedan,grey,ca,33.7086,-117.8701
+inland empire,5495,2007,mazda,mazda3,excellent,159927,clean,automatic,sedan,,ca,34.070283,-117.417684
+inland empire,5400,2011,mazda,3,good,100500,clean,automatic,sedan,black,ca,33.7399,-117.0151
+los angeles,7850,2014,mazda,3,like new,99000,salvage,automatic,,,ca,34.044,-118.2517
+los angeles,1000,2011,mazda,3,,124,clean,automatic,,,ca,34.1993,-118.5983
+los angeles,22488,2018,mazda,mazda3,,11940,clean,automatic,,brown,ca,34.128131,-118.255495
+los angeles,18990,2016,mazda,mazda3 s grand touring,good,46845,clean,other,hatchback,red,ca,33.88,-118.4
+los angeles,4000,2007,mazda,3,good,155734,clean,automatic,hatchback,black,ca,33.9056,-118.0818
+los angeles,5200,2009,mazda,3,excellent,95000,clean,automatic,sedan,black,ca,34.1407,-117.9567
+los angeles,1000,2011,mazda,3,,124,clean,automatic,,,ca,34.1993,-118.5983
+los angeles,18990,2016,mazda,mazda3 i touring hatchback,good,32642,clean,other,hatchback,,ca,34.04,-118.04
+los angeles,16999,2018,mazda,3,excellent,45581,clean,automatic,sedan,silver,ca,34.643094,-118.23658
+mendocino county,3600,2006,mazda,3,good,156000,salvage,automatic,other,,ca,38.9576,-122.636
+mendocino county,10999,2016,mazda,mazda3 i sport,excellent,79390,clean,manual,sedan,,ca,38.614952,-121.271667
+merced,10999,2016,mazda,mazda3 i sport,excellent,79390,clean,manual,sedan,,ca,38.614952,-121.271667
+merced,89,2016,mazda,3,excellent,58350,salvage,automatic,sedan,silver,ca,37.6717,-120.9482
+merced,11055,2013,mazda,mazda3 i grand touring,good,114610,clean,automatic,hatchback,,ca,38.610767,-121.422557
+merced,8838,2012,mazda,mazda3 i grand touring,good,125167,clean,automatic,hatchback,silver,ca,38.610767,-121.422557
+merced,9999,2013,mazda,mazda3,excellent,99091,clean,automatic,sedan,white,ca,37.609783,-120.995406
+merced,8288,2011,mazda,mazda3 i sport,good,121452,clean,automatic,sedan,silver,ca,38.610767,-121.422557
+merced,7188,2010,mazda,mazda3 i touring,good,132574,clean,automatic,sedan,,ca,38.610767,-121.422557
+modesto,7499,2012,mazda,mazda3 i touring,,105622,clean,automatic,sedan,white,ca,37.797142,-121.230484
+modesto,18990,2016,mazda,mazda3 i grand touring,good,29588,clean,automatic,hatchback,blue,ca,33.779214,-84.411811
+modesto,7500,2012,mazda,3 touring,,166515,clean,automatic,,,ca,37.654594,-120.993804
+modesto,9999,2013,mazda,mazda3,excellent,99091,clean,automatic,sedan,white,ca,37.609783,-120.995406
+modesto,5399,2010,mazda,mazda3 s sport,,134140,clean,automatic,hatchback,red,ca,37.797142,-121.230484
+modesto,0,2014,mazda,mazda3,excellent,,clean,manual,sedan,,ca,38.6093,-121.4443
+modesto,10999,2016,mazda,mazda3 i sport,excellent,79390,clean,manual,sedan,,ca,38.614952,-121.271667
+modesto,10999,2016,mazda,mazda3 i sport,excellent,79390,clean,manual,sedan,,ca,38.614952,-121.271667
+modesto,7499,2012,mazda,mazda3 i touring,,105622,clean,automatic,sedan,white,ca,37.797142,-121.230484
+modesto,15990,2014,mazda,mazda3 i touring hatchback,good,28647,clean,other,hatchback,,ca,33.779214,-84.411811
+modesto,5399,2010,mazda,mazda3 s sport,,134140,clean,automatic,hatchback,red,ca,37.797142,-121.230484
+modesto,6999,2013,mazda,mazda3,excellent,,clean,automatic,sedan,grey,ca,38.6239,-121.3837
+modesto,5399,2010,mazda,mazda3 s sport,,134140,clean,automatic,hatchback,red,ca,37.797142,-121.230484
+modesto,11998,2016,mazda,mazda3,excellent,10311,clean,automatic,hatchback,white,ca,38.641098,-121.428624
+modesto,7499,2012,mazda,mazda3 i touring,,105622,clean,automatic,sedan,white,ca,37.797142,-121.230484
+modesto,7499,2012,mazda,mazda3 i touring,,105622,clean,automatic,sedan,white,ca,37.797142,-121.230484
+modesto,17990,2018,mazda,mazda3 sport hatchback 4d,good,24849,clean,other,hatchback,silver,ca,33.7865,-84.4454
+monterey bay,11688,2014,mazda,mazda3,,97493,clean,automatic,,,ca,36.613457,-121.843935
+monterey bay,13200,2015,mazda,3,excellent,69200,clean,automatic,hatchback,red,ca,36.4196,-121.3243
+monterey bay,11688,2014,mazda,mazda3,,97493,clean,automatic,,,ca,36.613457,-121.843935
+monterey bay,11688,2014,mazda,mazda3,,97493,clean,automatic,,,ca,36.613457,-121.843935
+monterey bay,18990,2016,mazda,mazda3 i grand touring,good,29588,clean,automatic,hatchback,blue,ca,36.6,-121.88
+monterey bay,0,2012,mazda,3,excellent,50023,clean,manual,hatchback,blue,ca,36.687201,-121.79871
+orange county,7699,2013,mazda,3,,107629,clean,automatic,,blue,ca,33.799976,-117.551823
+orange county,15990,2014,mazda,mazda3 i touring hatchback,good,28647,clean,other,hatchback,,ca,33.74,-117.82
+orange county,0,2016,mazda,3,,40758,clean,automatic,sedan,grey,ca,33.716932,-117.867989
+orange county,6495,2010,mazda,mazda3,,123336,clean,automatic,sedan,white,ca,33.75872,-118.01385
+orange county,6999,2013,mazda,3 touring,excellent,120608,clean,automatic,hatchback,grey,ca,33.748911,-117.891304
+orange county,5300,2012,mazda,3,excellent,124000,clean,automatic,sedan,,ca,33.8998,-118.3199
+orange county,5700,2008,mazda,3,excellent,103000,clean,manual,hatchback,silver,ca,33.6528,-117.6731
+orange county,5995,2008,mazda,3,excellent,82000,clean,automatic,sedan,grey,ca,33.569,-117.1783
+orange county,9995,2015,mazda,mazda3,,78102,clean,automatic,sedan,,ca,33.83718,-117.84541
+orange county,9900,2013,mazda,mazda3,excellent,84686,clean,automatic,sedan,black,ca,33.875577,-117.570384
+orange county,5995,2011,mazda,3,,120000,clean,automatic,,,ca,33.6829,-117.8298
+orange county,0,2016,mazda,3,,40758,clean,automatic,sedan,grey,ca,33.7086,-117.8701
+orange county,7650,2012,mazda,mazda3,,111827,clean,automatic,hatchback,,ca,33.811283,-117.9021
+orange county,0,2015,mazda,mazda3,,93063,,manual,sedan,white,ca,34.1144,-117.6583
+orange county,8999,2017,mazda,mazda3,good,43558,salvage,automatic,sedan,grey,ca,33.6483,-117.9155
+palm springs,6999,2012,mazda,mazda3 i grand touring,good,122704,clean,automatic,sedan,,ca,33.745583,-116.361979
+palm springs,6900,2013,mazda,mazda3 i sv,excellent,111000,clean,automatic,sedan,,ca,33.745144,-116.351803
+palm springs,6500,2011,mazda,mazda3 i sport,excellent,109000,clean,automatic,sedan,,ca,33.745144,-116.351803
+palm springs,6999,2012,mazda,mazda3 i grand touring,good,122704,clean,automatic,sedan,,ca,33.745583,-116.361979
+palm springs,0,2018,mazda,mazda3,,33957,clean,automatic,sedan,,ca,33.755638,-116.286258
+palm springs,6500,2011,mazda,mazda3 i sport,excellent,109000,clean,automatic,sedan,,ca,33.745144,-116.351803
+palm springs,6900,2013,mazda,mazda3 i sv,excellent,111000,clean,automatic,sedan,,ca,33.745144,-116.351803
+palm springs,6999,2012,mazda,mazda3 i grand touring,good,122704,clean,automatic,sedan,,ca,33.745583,-116.361979
+palm springs,6500,2011,mazda,mazda3 i sport,excellent,109000,clean,automatic,sedan,,ca,33.745144,-116.351803
+palm springs,6900,2013,mazda,mazda3 i sv,excellent,111000,clean,automatic,sedan,,ca,33.745144,-116.351803
+palm springs,6999,2012,mazda,mazda3 i grand touring,good,122704,clean,automatic,sedan,,ca,33.745583,-116.361979
+palm springs,6900,2013,mazda,3,excellent,68000,salvage,automatic,sedan,black,ca,34.1176,-116.445
+palm springs,8999,2013,mazda,mazda3 i grand touring,good,99661,clean,automatic,hatchback,,ca,33.745583,-116.361979
+palm springs,6999,2012,mazda,mazda3 i grand touring,good,122704,clean,automatic,sedan,,ca,33.745583,-116.361979
+redding,11999,2015,mazda,mazda3 i sport w/ navigation system,,88302,clean,manual,sedan,black,ca,40.57109,-122.360944
+redding,11999,2015,mazda,mazda3 i sport w/ navigation system,,88302,clean,manual,sedan,black,ca,40.57109,-122.360944
+redding,11988,2016,mazda,mazda3 - rear camera - blind spot assist - gas sav,excellent,,clean,automatic,sedan,black,ca,38.5892,-121.4057
+redding,17990,2017,mazda,mazda3 touring 2.5,good,44997,clean,other,hatchback,,ca,33.779214,-84.411811
+redding,0,2014,mazda,mazda3,excellent,,clean,manual,sedan,,ca,38.6093,-121.4443
+redding,11999,2015,mazda,mazda3 i sport w/ navigation system,,88302,clean,manual,sedan,black,ca,40.57109,-122.360944
+redding,11999,2015,mazda,mazda3 i sport w/ navigation system,,88302,clean,manual,sedan,black,ca,40.57109,-122.360944
+redding,11988,2016,mazda,mazda3 - rear camera - blind spot assist - gas sav,excellent,,clean,automatic,sedan,black,ca,38.5892,-121.4057
+redding,8995,2013,mazda,3i sv,excellent,123687,clean,automatic,sedan,silver,ca,39.145315,-121.59608
+redding,11988,2016,mazda,mazda3 - rear camera - blind spot assist - gas sav,excellent,,clean,automatic,sedan,black,ca,38.5892,-121.4057
+redding,18500,2013,mazda,mazda3,excellent,54261,clean,manual,sedan,,ca,38.608933,-121.430188
+redding,8988,2012,mazda,mazda3,excellent,105894,clean,manual,hatchback,,ca,38.669027,-121.333868
+redding,11988,2016,mazda,mazda3 - rear camera - blind spot assist - gas sav,excellent,,clean,automatic,sedan,black,ca,38.5892,-121.4057
+redding,14599,2015,mazda,mazda3 i sport w/ navigation system,,43857,clean,automatic,hatchback,black,ca,40.57109,-122.360944
+reno / tahoe,17999,2013,mazda,mazda3,excellent,54261,clean,manual,sedan,,ca,38.608933,-121.430188
+reno / tahoe,11823,2015,mazda,mazda3,,105493,clean,automatic,hatchback,brown,ca,39.179138,-119.725304
+reno / tahoe,7950,2013,mazda,mazda3,excellent,110475,clean,automatic,sedan,blue,ca,39.524283,-119.825238
+reno / tahoe,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,ca,33.779214,-84.411811
+reno / tahoe,9823,2013,mazda,mazda3,,85834,clean,automatic,sedan,black,ca,39.179138,-119.725304
+reno / tahoe,7950,2013,mazda,mazda3,excellent,110475,clean,automatic,sedan,blue,ca,39.524283,-119.825238
+reno / tahoe,17990,2016,mazda,mazda3 i sport hatchback,good,11319,clean,other,hatchback,black,ca,33.779214,-84.411811
+reno / tahoe,11823,2015,mazda,mazda3,,105493,clean,automatic,hatchback,brown,ca,39.179138,-119.725304
+sacramento,0,2017,mazda,mazda3 5-door,,43478,clean,automatic,other,black,ca,38.496861,-121.465919
+sacramento,2900,2009,mazda,3,good,165422,clean,automatic,,blue,ca,38.4826,-121.4006
+sacramento,8988,2013,mazda,mazda3 i sport,good,115390,clean,automatic,sedan,white,ca,38.610767,-121.422557
+sacramento,8288,2011,mazda,mazda3 i sport,good,121452,clean,automatic,sedan,silver,ca,38.610767,-121.422557
+sacramento,7188,2010,mazda,mazda3 i touring,good,132574,clean,automatic,sedan,,ca,38.610767,-121.422557
+sacramento,8988,2013,mazda,mazda3 i sport,good,115390,clean,automatic,sedan,white,ca,38.610767,-121.422557
+sacramento,8288,2011,mazda,mazda3 i sport,good,121452,clean,automatic,sedan,silver,ca,38.610767,-121.422557
+sacramento,7188,2010,mazda,mazda3 i touring,good,132574,clean,automatic,sedan,,ca,38.610767,-121.422557
+sacramento,14900,2017,mazda,mazda3 4-door,,73010,clean,automatic,sedan,silver,ca,38.405574,-121.392486
+sacramento,4900,2007,mazda,3,good,125000,salvage,automatic,hatchback,white,ca,38.6711,-121.1093
+sacramento,6800,2010,mazda,3,good,166000,clean,automatic,hatchback,grey,ca,38.6807,-121.1634
+sacramento,5950,2010,mazda,mazda3,good,157781,clean,automatic,sedan,blue,ca,38.538729,-121.409144
+sacramento,9988,2011,mazda,mazda3,,110940,clean,manual,hatchback,white,ca,38.739933,-121.290932
+sacramento,11988,2010,mazda,mazda3 s sport,excellent,72984,,automatic,hatchback,,ca,37.963201,-122.509472
+sacramento,6999,2013,mazda,mazda3,good,65000,clean,automatic,sedan,black,ca,38.7346,-121.234
+sacramento,11900,2014,mazda,mazda3,,71481,clean,manual,sedan,silver,ca,38.677824,-121.777154
+sacramento,4500,2005,mazda,mazda3 i,good,155511,clean,automatic,sedan,grey,ca,38.6239,-121.3837
+san diego,3750,2008,mazda,3 hatchback,excellent,156400,salvage,automatic,,grey,ca,32.7635,-117.2028
+san diego,5000,2008,mazda,mazda3,good,185000,clean,automatic,hatchback,red,ca,32.7473,-117.1527
+san diego,6999,2012,mazda,mazda3,like new,131430,clean,automatic,,grey,ca,33.8419,-117.6043
+san diego,6999,2012,mazda,mazda3,like new,131430,clean,automatic,,grey,ca,33.8419,-117.6043
+san diego,4999,2010,mazda,mazda3,like new,256000,clean,automatic,sedan,grey,ca,32.617248,-117.084281
+san diego,9000,2013,mazda,3,good,91512,clean,automatic,sedan,white,ca,33.0279,-117.0856
+san diego,15998,2018,mazda,mazda3,,41684,clean,automatic,hatchback,white,ca,32.82387,-117.1552
+san diego,18000,2016,mazda,3,excellent,14016,clean,automatic,hatchback,white,ca,33.1644,-117.2403
+san diego,7699,2013,mazda,3,like new,107629,clean,automatic,,blue,ca,33.821799,-117.575684
+san diego,15990,2014,mazda,mazda3 i touring hatchback,good,28647,clean,other,hatchback,,ca,32.74,-117.17
+san diego,16500,2017,mazda,3,like new,30000,clean,automatic,sedan,silver,ca,32.9756,-117.0402
+san diego,10500,2016,mazda,3 2.0 sport,like new,58000,salvage,automatic,sedan,grey,ca,32.7607,-117.0721
+san diego,8995,2013,mazda,mazda3 i sv,,64037,clean,automatic,sedan,black,ca,32.768946,-117.047733
+san diego,2800,2006,mazda,3,excellent,210000,clean,manual,sedan,black,ca,32.7178,-117.1209
+san diego,9900,2013,mazda,mazda3,excellent,84686,clean,automatic,sedan,black,ca,33.875577,-117.570384
+san diego,5950,2009,mazda,mazda3,excellent,103107,clean,automatic,sedan,red,ca,32.751305,-117.24593
+san diego,5995,2008,mazda,3,excellent,82000,clean,automatic,sedan,grey,ca,33.569,-117.1783
+san diego,7990,2010,mazda,3 sport,good,121000,clean,manual,hatchback,grey,ca,33.12315,-117.08622
+san diego,17590,2018,mazda,mazda3 touring sedan 4d,good,38426,clean,other,sedan,white,ca,32.86,-117.24
+san diego,15998,2018,mazda,mazda3,,41684,clean,automatic,hatchback,white,ca,32.82387,-117.1552
+san luis obispo,16998,2017,mazda,mazda3 4-door,excellent,60389,clean,automatic,sedan,,ca,35.283445,-120.658029
+san luis obispo,18977,2018,mazda,mazda3 4-door,excellent,35073,clean,automatic,sedan,,ca,35.283445,-120.658029
+san luis obispo,16998,2017,mazda,mazda3 4-door,excellent,60389,clean,automatic,sedan,,ca,35.283445,-120.658029
+san luis obispo,18977,2018,mazda,mazda3 4-door,excellent,35073,clean,automatic,sedan,,ca,35.283445,-120.658029
+san luis obispo,16998,2017,mazda,mazda3 4-door,excellent,60389,clean,automatic,sedan,,ca,35.283445,-120.658029
+san luis obispo,18977,2018,mazda,mazda3 4-door,excellent,35073,clean,automatic,sedan,,ca,35.283445,-120.658029
+santa barbara,18990,2016,mazda,mazda3 i grand touring,good,29588,clean,automatic,hatchback,blue,ca,33.779214,-84.411811
+santa barbara,8999,2013,mazda,mazda3 i sv sedan 4d,excellent,90910,,manual,sedan,,ca,34.213401,-119.178039
+santa barbara,6500,2011,mazda,mazda3 i touring sedan,excellent,117856,,manual,sedan,,ca,34.213401,-119.178039
+santa maria,20990,2019,mazda,mazda3 preferred sedan 4d,good,6131,clean,other,sedan,white,ca,33.779214,-84.411811
+santa maria,7499,2013,mazda,3,good,137838,clean,manual,hatchback,grey,ca,34.957387,-120.436023
+SF bay area,3600,2006,mazda,3,good,156000,salvage,automatic,,,ca,38.9576,-122.636
+SF bay area,6900,2010,mazda,3 hatchback,excellent,126000,clean,automatic,hatchback,grey,ca,37.3886,-122.0177
+SF bay area,5000,2008,mazda,3,good,149250,clean,automatic,hatchback,silver,ca,37.716118,-122.465321
+SF bay area,6600,2008,mazda,3 hatchback,excellent,98305,clean,automatic,,black,ca,37.01542,-121.599338
+SF bay area,11688,2014,mazda,mazda3 i touring automatic,,97493,clean,automatic,sedan,grey,ca,36.613457,-121.843935
+SF bay area,16510,2013,mazda,mazda3 i grand touring,good,14718,clean,automatic,sedan,white,ca,37.67756,-122.09099
+SF bay area,18590,2017,mazda,mazda3 sport hatchback 4d,good,21903,clean,other,hatchback,blue,ca,37.45,-122.1
+SF bay area,16799,2016,mazda,mazda3 s touring,good,49442,clean,automatic,hatchback,,ca,37.415052,-122.102602
+SF bay area,18990,2016,mazda,mazda3 i touring hatchback,good,32642,clean,other,hatchback,,ca,37.45,-122.1
+SF bay area,16799,2016,mazda,mazda3 s touring,good,49442,clean,automatic,hatchback,,ca,37.415052,-122.102602
+SF bay area,17444,2018,mazda,mazda3 sport sedan,good,36549,clean,automatic,sedan,blue,ca,37.52134,-121.999011
+SF bay area,20590,2019,mazda,mazda3 select sedan 4d,good,19900,clean,other,sedan,,ca,37.45,-122.1
+SF bay area,15000,2018,mazda,3,excellent,53000,clean,automatic,hatchback,black,ca,37.676752,-121.754554
+SF bay area,17101,2018,mazda,mazda3 sport sedan,good,47103,clean,automatic,sedan,blue,ca,37.52134,-121.999011
+SF bay area,17101,2018,mazda,mazda3 sport sedan,good,47103,clean,automatic,sedan,blue,ca,37.52134,-121.999011
+SF bay area,7499,2008,mazda,mazda3,excellent,1,clean,automatic,,,ca,,
+SF bay area,21590,2019,mazda,mazda3 preferred sedan 4d,good,21552,clean,other,sedan,,ca,37.84,-122.53
+SF bay area,18990,2016,mazda,mazda3 s grand touring,good,46845,clean,other,hatchback,red,ca,37.84,-122.53
+SF bay area,5500,2012,mazda,3,good,230000,clean,manual,hatchback,grey,ca,37.3518,-121.8508
+SF bay area,17990,2016,mazda,mazda3 i touring sedan 4d,good,26661,clean,other,sedan,red,ca,37.84,-122.53
+SF bay area,0,2015,mazda,mazda3,good,91714,clean,automatic,sedan,blue,ca,38.379534,-122.712998
+SF bay area,5200,2009,mazda,mazda3 touring hatchback,good,149985,clean,automatic,hatchback,grey,ca,37.3483,-121.9844
+SF bay area,6000,2008,mazda,mazda3 touring sedan 4d,excellent,97689,clean,automatic,sedan,silver,ca,37.3483,-121.9844
+SF bay area,16499,2015,mazda,mazda3,,37133,clean,automatic,hatchback,blue,ca,37.335987,-121.777603
+SF bay area,4200,2008,mazda,3,good,119000,clean,manual,sedan,grey,ca,38.008,-122.259
+SF bay area,3000,2007,mazda,mazda3 5-door,fair,221000,clean,manual,hatchback,silver,ca,38.4923,-122.9042
+stockton,17999,2013,mazda,mazda3,excellent,54261,clean,manual,sedan,,ca,38.608933,-121.430188
+stockton,8288,2011,mazda,mazda3 i sport,good,121452,clean,automatic,sedan,silver,ca,38.610767,-121.422557
+stockton,8988,2013,mazda,mazda3 i sport,good,115390,clean,automatic,sedan,white,ca,38.610767,-121.422557
+stockton,7188,2010,mazda,mazda3 i touring,good,132574,clean,automatic,sedan,,ca,38.610767,-121.422557
+stockton,11988,2010,mazda,mazda3 s sport,excellent,72984,,automatic,hatchback,,ca,37.963201,-122.509472
+stockton,6999,2009,mazda,mazda3,,104932,clean,automatic,sedan,,ca,38.628015,-121.401179
+stockton,5399,2010,mazda,mazda3 s sport,,134140,clean,automatic,hatchback,red,ca,37.797142,-121.230484
+stockton,8499,2012,mazda,mazda3 i touring,,105622,clean,automatic,sedan,white,ca,37.797142,-121.230484
+stockton,18488,2018,mazda,mazda3 4-door sport,excellent,20774,,automatic,sedan,,ca,37.963201,-122.509472
+stockton,7499,2011,mazda,mazda3,,124034,clean,automatic,sedan,custom,ca,38.113072,-121.14903
+stockton,15998,2017,mazda,3 grand touring,excellent,45683,salvage,automatic,hatchback,grey,ca,38.609627,-121.435028
+stockton,5399,2010,mazda,mazda3 s sport,,134140,clean,automatic,hatchback,red,ca,37.797142,-121.230484
+stockton,17590,2018,mazda,mazda3 touring sedan 4d,good,38426,clean,other,sedan,white,ca,33.779214,-84.411811
+stockton,9999,2013,mazda,mazda3,excellent,99091,clean,automatic,sedan,white,ca,37.609783,-120.995406
+stockton,8838,2012,mazda,mazda3 i grand touring,good,125167,clean,automatic,hatchback,silver,ca,38.610767,-121.422557
+stockton,7499,2012,mazda,mazda3 i touring,,105622,clean,automatic,sedan,white,ca,37.797142,-121.230484
+stockton,9495,2015,mazda,mazda3,,122400,clean,automatic,sedan,silver,ca,37.95868,-121.27473
+stockton,22988,2020,mazda,mazda3 hatchback,excellent,4340,,automatic,hatchback,,ca,37.963201,-122.509472
+stockton,11055,2013,mazda,mazda3 i grand touring,good,114610,clean,automatic,hatchback,,ca,38.610767,-121.422557
+stockton,9999,2015,mazda,mazda3,,117231,clean,manual,sedan,silver,ca,37.961518,-121.273657
+stockton,18988,2018,mazda,mazda3 4-door touring,excellent,35629,,automatic,sedan,,ca,37.963201,-122.509472
+stockton,13500,2014,mazda,3,like new,60600,clean,automatic,sedan,grey,ca,37.7383,-121.4345
+stockton,9495,2015,mazda,mazda3,,122400,clean,automatic,sedan,silver,ca,37.95868,-121.27473
+stockton,5399,2010,mazda,mazda3 s sport,,134140,clean,manual,hatchback,red,ca,37.797142,-121.230484
+stockton,18500,2013,mazda,mazda3,excellent,54261,clean,manual,sedan,,ca,38.608933,-121.430188
+ventura county,6500,2012,mazda,3,good,127200,clean,manual,sedan,silver,ca,34.2788,-119.1651
+ventura county,8999,2013,mazda,mazda3 i sv sedan 4d,excellent,90910,,manual,sedan,,ca,34.213401,-119.178039
+ventura county,6500,2011,mazda,mazda3 i touring sedan,excellent,117856,,manual,sedan,,ca,34.213401,-119.178039
+ventura county,18990,2016,mazda,mazda3 i grand touring,good,29588,clean,automatic,hatchback,blue,ca,33.779214,-84.411811
+ventura county,8999,2013,mazda,mazda3 i sv sedan 4d,excellent,90910,,manual,sedan,,ca,34.213401,-119.178039
+ventura county,14999,2016,mazda,mazda3,excellent,43634,clean,automatic,sedan,,ca,34.227125,-118.467977
+ventura county,14999,2016,mazda,mazda3,excellent,32600,clean,automatic,sedan,,ca,34.227125,-118.467977
+ventura county,6500,2011,mazda,mazda3 i touring sedan,excellent,117856,,manual,sedan,,ca,34.213401,-119.178039
+ventura county,15990,2014,mazda,mazda3 i touring hatchback,good,28647,clean,other,hatchback,,ca,33.779214,-84.411811
+ventura county,5900,2011,mazda,3,excellent,126152,clean,automatic,sedan,black,ca,34.2262,-118.447
+ventura county,4995,2008,mazda,mazda3,,115138,clean,manual,sedan,,ca,34.18351,-118.90809
+ventura county,6500,2011,mazda,mazda3 i touring sedan,excellent,117856,,manual,sedan,,ca,34.213401,-119.178039
+ventura county,17990,2018,mazda,mazda3 sport hatchback 4d,good,24849,clean,other,hatchback,silver,ca,33.7865,-84.4454
+ventura county,8995,2014,mazda,mazda3,excellent,105015,clean,manual,sedan,blue,ca,34.221258,-118.412317
+ventura county,11988,2016,mazda,mazda3,excellent,89772,clean,automatic,sedan,grey,ca,34.221258,-118.412317
+ventura county,5900,2011,mazda,3,excellent,126152,clean,automatic,sedan,black,ca,34.2262,-118.447
+ventura county,6500,2011,mazda,mazda3 i touring sedan,excellent,117856,,manual,sedan,,ca,34.213401,-119.178039
+ventura county,14990,2017,mazda,mazda3 touring hatchback,good,75436,clean,other,hatchback,blue,ca,33.7865,-84.4454
+visalia-tulare,20990,2019,mazda,mazda3 preferred sedan 4d,good,6131,clean,other,sedan,white,ca,36.4,-119.38
+yuba-sutter,17999,2013,mazda,mazda3,excellent,54261,clean,manual,sedan,,ca,38.608933,-121.430188
+yuba-sutter,7499,2010,mazda,mazda3 i touring,excellent,152154,clean,automatic,sedan,,ca,39.123441,-121.61144
+yuba-sutter,9988,2011,mazda,mazda3,,110940,clean,manual,hatchback,white,ca,38.739933,-121.290932
+yuba-sutter,7499,2010,mazda,mazda3 i touring,excellent,152154,clean,automatic,sedan,,ca,39.123441,-121.61144
+yuba-sutter,7499,2010,mazda,mazda3 i touring,excellent,152154,clean,automatic,sedan,,ca,39.123441,-121.61144
+yuba-sutter,10495,2013,mazda,3,,92145,clean,automatic,hatchback,red,ca,38.655305,-120.953858
+yuba-sutter,7499,2010,mazda,mazda3 i touring,excellent,152154,clean,automatic,sedan,,ca,39.123441,-121.61144
+yuba-sutter,7499,2010,mazda,mazda3 i touring,excellent,152154,clean,automatic,sedan,,ca,39.123441,-121.61144
+yuba-sutter,7499,2010,mazda,mazda3 i touring,excellent,152154,clean,automatic,sedan,,ca,39.123441,-121.61144
+yuba-sutter,11988,2016,mazda,mazda3 - rear camera - blind spot assist - gas sav,excellent,,clean,automatic,sedan,black,ca,38.5892,-121.4057
+yuba-sutter,7499,2010,mazda,mazda3 i touring,excellent,152154,clean,automatic,sedan,,ca,39.123441,-121.61144
+yuba-sutter,11055,2013,mazda,mazda3 i grand touring,good,114610,clean,automatic,hatchback,,ca,38.610767,-121.422557
+yuba-sutter,8838,2012,mazda,mazda3 i grand touring,good,125167,clean,automatic,hatchback,silver,ca,38.610767,-121.422557
+yuba-sutter,7499,2010,mazda,mazda3 i touring,excellent,152154,clean,automatic,sedan,,ca,39.123441,-121.61144
+yuba-sutter,8995,2013,mazda,3i sv,excellent,123687,clean,automatic,sedan,silver,ca,39.145315,-121.59608
+yuba-sutter,12000,2016,mazda,mazda3,,104045,clean,automatic,sedan,black,ca,38.677824,-121.777154
+yuba-sutter,11988,2016,mazda,mazda3 - rear camera - blind spot assist - gas sav,excellent,,clean,automatic,sedan,black,ca,38.5892,-121.4057
+yuba-sutter,8988,2013,mazda,mazda3 i sport,good,115390,clean,automatic,sedan,white,ca,38.610767,-121.422557
+yuba-sutter,8288,2011,mazda,mazda3 i sport,good,121452,clean,automatic,sedan,silver,ca,38.610767,-121.422557
+yuba-sutter,7188,2010,mazda,mazda3 i touring,good,132574,clean,automatic,sedan,,ca,38.610767,-121.422557
+yuba-sutter,11988,2016,mazda,mazda3 - rear camera - blind spot assist - gas sav,excellent,,clean,automatic,sedan,black,ca,38.5892,-121.4057
+yuba-sutter,10495,2013,mazda,3,,92145,clean,automatic,hatchback,red,ca,38.655305,-120.953858
+yuba-sutter,11988,2016,mazda,mazda3 - rear camera - blind spot assist - gas sav,excellent,,clean,automatic,sedan,black,ca,38.5892,-121.4057
+boulder,14950,2016,mazda,3,excellent,58573,clean,manual,,,co,40.1559,-105.1624
+boulder,17990,2016,mazda,mazda3 i touring sedan 4d,good,26661,clean,other,sedan,red,co,40.02104,-105.26465
+boulder,14950,2016,mazda,3,excellent,58573,clean,manual,,,co,40.1559,-105.1624
+colorado springs,9995,2016,mazda,mazda3 i sport,,29385,clean,automatic,sedan,blue,co,38.909638,-104.785056
+colorado springs,17990,2016,mazda,mazda3 i touring sedan 4d,good,26661,clean,other,sedan,red,co,38.82108,-104.82311
+colorado springs,9995,2016,mazda,mazda3 i sport,,29385,clean,automatic,sedan,blue,co,38.909638,-104.785056
+colorado springs,5450,2011,mazda,mazda3,excellent,78374,rebuilt,automatic,hatchback,silver,co,39.66507,-104.98709
+colorado springs,9995,2016,mazda,mazda3 i sport,,29385,clean,automatic,sedan,blue,co,38.909638,-104.785056
+colorado springs,5900,2015,mazda,3,good,138000,clean,manual,sedan,,co,38.9189,-104.7045
+denver,3500,2013,mazda,3,good,157000,clean,automatic,,,co,39.6111,-104.9532
+denver,14337,2015,mazda,mazda3 i touring w/skyact,,83587,clean,manual,hatchback,,co,39.675975,-105.008636
+denver,3700,2006,mazda,3,,158000,clean,manual,hatchback,grey,co,39.7665,-105.0204
+denver,15952,2014,mazda,mazda3,,49452,clean,automatic,hatchback,custom,co,39.578815,-104.862418
+denver,4998,2008,mazda,3,excellent,162000,clean,automatic,sedan,silver,co,39.6463,-105.0092
+denver,9495,2012,mazda,mazda3,,54356,clean,manual,sedan,white,co,39.774,-105.0962
+denver,8600,2010,mazda,3,good,127000,clean,manual,hatchback,grey,co,39.604375,-105.054016
+denver,4900,2009,mazda,3 i touring,excellent,150400,clean,manual,sedan,silver,co,39.767719,-105.235264
+denver,7400,2011,mazda,3,good,109787,clean,automatic,hatchback,,co,39.6463,-105.0092
+denver,9499,2012,mazda,mazda3,,74059,clean,automatic,sedan,black,co,39.580309,-104.954917
+denver,4998,2008,mazda,3,excellent,162000,clean,automatic,sedan,silver,co,39.6463,-105.0092
+denver,18798,2018,mazda,mazda3,,16164,clean,automatic,hatchback,white,co,39.822719,-105.003969
+denver,5000,2011,mazda,3,,130000,clean,automatic,,,co,39.71642,-105.011074
+fort collins / north CO,3400,2006,mazda,3,,135562,clean,automatic,,,co,40.4109,-104.7541
+fort collins / north CO,5800,2011,mazda,3i touring,excellent,113750,clean,automatic,sedan,red,co,40.5813,-105.1039
+fort collins / north CO,17990,2016,mazda,mazda3 i touring sedan 4d,good,26661,clean,other,sedan,red,co,40.55,-105.06
+fort collins / north CO,11995,2015,mazda,mazda3,,126845,clean,automatic,sedan,white,co,40.392756,-104.727851
+fort collins / north CO,17200,2017,mazda,mazda3,like new,39899,clean,automatic,SUV,red,co,40.601103,-105.07663
+fort collins / north CO,11999,2016,mazda,mazda3,,94036,clean,automatic,sedan,,co,40.182151,-105.102373
+fort collins / north CO,11995,2016,mazda,mazda3,,118072,clean,automatic,sedan,white,co,40.392756,-104.727851
+fort collins / north CO,6495,2010,mazda,3,good,141577,clean,automatic,,,co,40.151309,-105.103819
+fort collins / north CO,15990,2015,mazda,mazda3 i sport sedan 4d,good,49215,clean,other,sedan,red,co,40.55,-105.06
+pueblo,0,2011,mazda,mazda3,,78454,clean,automatic,,silver,co,38.300331,-104.613455
+pueblo,0,2011,mazda,mazda3,,78454,clean,automatic,,silver,co,38.300331,-104.613455
+western slope,8957,2015,mazda,mazda3,good,158219,clean,automatic,sedan,red,co,38.496514,-107.897279
+western slope,14995,2017,mazda,mazda3 5-door touring auto,,77663,clean,automatic,sedan,black,co,39.081944,-108.588542
+western slope,3500,2010,mazda,3,good,130000,salvage,automatic,sedan,silver,co,39.0157,-108.6129
+eastern CT,9000,2014,mazda,3,excellent,97700,clean,manual,sedan,silver,ct,41.3572,-72.0579
+eastern CT,5495,2013,mazda,mazda3,good,208000,clean,manual,sedan,red,ct,41.58507,-71.94037
+hartford,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,ct,41.76,-72.68
+hartford,1988,2009,mazda,mazda3,,213708,clean,automatic,sedan,red,ct,41.915593,-72.61482
+hartford,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ct,41.76,-72.68
+hartford,1988,2009,mazda,mazda3,,213708,clean,automatic,sedan,red,ct,41.915593,-72.61482
+hartford,5495,2013,mazda,mazda3,good,208000,clean,manual,sedan,red,ct,41.58507,-71.94037
+hartford,1988,2009,mazda,mazda3,,213708,clean,automatic,sedan,red,ct,41.915593,-72.61482
+hartford,1988,2009,mazda,mazda3,,213708,clean,automatic,sedan,red,ct,41.915593,-72.61482
+hartford,13699,2017,mazda,mazda3 4-door,good,67137,clean,automatic,other,black,ct,,
+new haven,8995,2012,mazda,3,good,86300,clean,manual,hatchback,grey,ct,41.4202,-73.1296
+new haven,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ct,41.31,-72.92
+new haven,3500,2007,mazda,3,,155000,clean,automatic,,silver,ct,41.46,-72.8222
+new haven,10950,2014,mazda,mazda3,,84639,clean,automatic,hatchback,red,ct,41.552532,-72.999092
+new haven,15590,2015,mazda,mazda3 i sv sedan 4d,good,51321,clean,other,sedan,brown,ct,41.31,-72.92
+new haven,5995,2010,mazda,mazda3,,107100,clean,manual,sedan,grey,ct,41.512139,-73.021803
+northwest CT,5400,2013,mazda,mazda3,,86000,clean,automatic,,,ct,41.5603,-73.7939
+northwest CT,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ct,41.81,-72.9
+washington DC,4495,2009,mazda,3,excellent,157300,clean,automatic,sedan,silver,dc,38.9814,-77.4723
+washington DC,18590,2014,mazda,mazda3 s grand touring,good,42371,clean,other,sedan,silver,dc,38.87,-77.1
+washington DC,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,dc,38.89,-77.03
+washington DC,3800,2007,mazda,3,good,137950,clean,automatic,sedan,orange,dc,38.928,-77.2649
+washington DC,17990,2016,mazda,mazda3 i touring sedan 4d,good,24124,clean,other,sedan,brown,dc,38.89,-77.03
+washington DC,5000,2006,mazda,3,good,110000,clean,automatic,,black,dc,39.04,-77.0444
+washington DC,14495,2012,mazda,mazda3,,96507,clean,manual,hatchback,white,dc,38.50942,-77.3709
+washington DC,14495,2012,mazda,mazda3,,96507,clean,manual,hatchback,white,dc,38.50942,-77.3709
+washington DC,12871,2015,mazda,mazda3,,42182,clean,automatic,sedan,custom,dc,38.986137,-77.455694
+washington DC,7750,2014,mazda,3,good,96000,clean,automatic,sedan,blue,dc,38.9814,-77.4723
+washington DC,3695,2007,mazda,3,excellent,150000,clean,automatic,sedan,white,dc,39.1119,-76.8414
+washington DC,8950,2015,mazda,mazda3,,117089,clean,automatic,sedan,blue,dc,38.8976,-77.5092
+washington DC,4995,2010,mazda,mazda3,,160315,clean,automatic,sedan,black,dc,39.06441,-77.603965
+washington DC,10800,2015,mazda,3,excellent,79000,clean,automatic,,,dc,38.676,-77.3163
+washington DC,15590,2014,mazda,mazda3 i grand touring,good,76880,clean,manual,hatchback,,dc,38.87,-77.1
+delaware,3995,2012,mazda,mazda3,good,164211,clean,automatic,sedan,grey,de,39.937155,-75.088194
+delaware,6995,2009,mazda,3s touring,excellent,127693,clean,automatic,,silver,de,38.548302,-75.237097
+delaware,7600,2014,mazda,3 skyactiv,excellent,107000,clean,automatic,sedan,grey,de,39.7994,-75.5317
+delaware,16495,2016,mazda,mazda3,good,82960,clean,automatic,hatchback,blue,de,38.72573,-75.58994
+delaware,7600,2014,mazda,3 skyactiv,excellent,107000,clean,automatic,sedan,grey,de,39.7994,-75.5317
+delaware,7600,2014,mazda,3 skyactiv,excellent,107000,clean,automatic,sedan,grey,de,39.7994,-75.5317
+delaware,5000,2012,mazda,3,like new,118500,clean,automatic,,,de,39.1605,-75.5974
+delaware,5000,2012,mazda,3,like new,118500,clean,automatic,,,de,39.1605,-75.5974
+daytona beach,5999,2011,mazda,3,good,96408,clean,manual,hatchback,grey,fl,29.462886,-81.256514
+daytona beach,5900,2011,mazda,3,,112000,clean,automatic,,,fl,29.16,-81.0269
+florida keys,15990,2014,mazda,mazda3 i sv sedan 4d,good,31866,clean,automatic,sedan,,fl,25.08,-80.44
+ft myers / SW florida,4500,2010,mazda,3,good,154800,clean,manual,hatchback,silver,fl,26.3304,-81.5871
+ft myers / SW florida,15590,2014,mazda,mazda3 i grand touring,good,76880,clean,manual,hatchback,,fl,26.63,-81.85
+ft myers / SW florida,10991,2016,mazda,mazda3,,93941,clean,automatic,sedan,silver,fl,26.571661,-81.877633
+ft myers / SW florida,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,fl,26.14,-81.79
+ft myers / SW florida,17990,2017,mazda,mazda3 touring 2.5,good,44997,clean,other,hatchback,,fl,26.63,-81.85
+ft myers / SW florida,16590,2015,mazda,mazda3 i touring hatchback,good,31330,clean,other,hatchback,blue,fl,26.63,-81.85
+ft myers / SW florida,4999,2007,mazda,3,excellent,123000,clean,automatic,sedan,grey,fl,26.139453,-81.769177
+ft myers / SW florida,21590,2018,mazda,mazda3 grand touring sedan,good,39607,clean,other,sedan,black,fl,26.63,-81.85
+jacksonville,13400,2018,mazda,3,like new,50000,clean,automatic,hatchback,grey,fl,30.2866,-81.503
+jacksonville,16590,2016,mazda,mazda3 i sport hatchback,good,48252,clean,other,hatchback,black,fl,30.33,-81.65
+jacksonville,13995,2018,mazda,mazda3,,25450,clean,automatic,sedan,,fl,30.348,-81.5882
+jacksonville,6500,2014,mazda,3,like new,167549,clean,automatic,sedan,red,fl,29.8285,-81.3237
+jacksonville,6700,2010,mazda,3 i touring,excellent,110272,clean,automatic,sedan,grey,fl,30.2787,-81.5831
+lakeland,800,2009,mazda,3,fair,264000,clean,automatic,sedan,,fl,28.0381,-81.9392
+lakeland,4000,2008,mazda,3,good,166399,clean,automatic,sedan,black,fl,27.9729,-81.8931
+lakeland,15590,2014,mazda,mazda3 i grand touring,good,76880,clean,manual,hatchback,,fl,28.04,-81.96
+ocala,13999,2017,mazda,3,excellent,127944,clean,automatic,hatchback,red,fl,28.899361,-82.374053
+ocala,1200,2007,mazda,3,good,100000,clean,automatic,hatchback,silver,fl,28.9782,-81.8932
+ocala,11999,2013,mazda,mazda3,good,94067,clean,automatic,hatchback,grey,fl,28.647059,-81.352268
+ocala,11999,2015,mazda,3 grand touring,excellent,96445,clean,automatic,sedan,grey,fl,28.899361,-82.374053
+ocala,6500,2014,mazda,3,like new,167549,clean,automatic,sedan,red,fl,28.9341,-81.9599
+okaloosa / walton,14990,2017,mazda,3 touring,like new,46431,clean,automatic,sedan,grey,fl,30.40959,-86.84216
+okaloosa / walton,14990,2017,mazda,3 touring,like new,46431,clean,automatic,sedan,grey,fl,30.40959,-86.84216
+orlando,3900,2010,mazda,3,good,120000,clean,automatic,sedan,black,fl,28.4871,-81.4082
+orlando,5300,2008,mazda,3,good,123000,clean,automatic,hatchback,grey,fl,28.6354,-81.4888
+orlando,3990,2010,mazda,mazda3,excellent,153353,clean,manual,sedan,blue,fl,28.480227,-81.295559
+orlando,2400,2006,mazda,3,,137000,clean,manual,,,fl,28.5302,-81.4045
+orlando,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,fl,28.5,-81.37
+orlando,5300,2008,mazda,3,good,123000,clean,automatic,hatchback,grey,fl,28.6354,-81.4888
+orlando,13999,2017,mazda,3,excellent,127944,clean,automatic,hatchback,red,fl,28.899361,-82.374053
+orlando,6500,2014,mazda,3,excellent,167874,clean,automatic,sedan,red,fl,28.549966,-81.391525
+orlando,3995,2012,mazda,mazda3,,149366,clean,manual,sedan,green,fl,28.478567,-81.396692
+pensacola,4999,2007,mazda,3,,41009,clean,automatic,hatchback,silver,fl,30.401616,-86.989304
+sarasota-bradenton,7500,2007,mazda,mazda3,excellent,162000,clean,automatic,sedan,grey,fl,27.2866,-82.477
+sarasota-bradenton,17990,2017,mazda,mazda3 touring 2.5,good,44997,clean,other,hatchback,,fl,27.33,-82.54
+sarasota-bradenton,17995,2018,mazda,mazda3,,16416,clean,automatic,hatchback,red,fl,27.266027,-82.516651
+south florida,8500,2015,mazda,3 i sport,like new,79000,clean,automatic,sedan,grey,fl,25.7341,-80.4068
+south florida,1000,2007,mazda,3,good,190000,clean,automatic,,red,fl,25.8521,-80.1821
+south florida,10985,2017,mazda,3,,67000,clean,automatic,,,fl,26.2785,-80.1157
+south florida,6995,2012,mazda,mazda3,excellent,121464,clean,automatic,sedan,grey,fl,26.093111,-80.142651
+south florida,4700,2011,mazda,3,,150000,clean,manual,,,fl,25.991502,-80.249891
+south florida,6350,2011,mazda,3,excellent,91800,rebuilt,automatic,,grey,fl,25.8301,-80.2926
+south florida,8500,2015,mazda,3 i sport,like new,79000,clean,automatic,sedan,grey,fl,25.7341,-80.4068
+south florida,13550,2017,mazda,mazda3,excellent,36220,clean,automatic,hatchback,grey,fl,26.095265,-80.201169
+south florida,5450,2013,mazda,mazda3,like new,122052,clean,automatic,sedan,black,fl,26.095265,-80.201169
+south florida,7500,2011,mazda,3,excellent,81000,clean,automatic,sedan,grey,fl,26.251053,-80.227747
+south florida,3000,2006,mazda,3 hatchback,good,166975,clean,automatic,hatchback,red,fl,25.9924,-80.4089
+south florida,16990,2015,mazda,mazda3 s grand touring,good,50811,clean,other,sedan,red,fl,26.74,-80.12
+south florida,1300,2005,mazda,3,good,138725,rebuilt,automatic,sedan,black,fl,25.910575,-80.308213
+south florida,6995,2012,mazda,mazda3,excellent,121464,clean,automatic,sedan,grey,fl,26.093111,-80.142651
+south florida,6995,2012,mazda,mazda3,excellent,91070,clean,automatic,sedan,black,fl,26.093111,-80.142651
+south florida,10985,2015,mazda,3,,38000,clean,automatic,,,fl,26.2785,-80.1157
+south florida,9299,2018,mazda,mazda3,excellent,114255,,automatic,sedan,,fl,25.992692,-80.142182
+south florida,15990,2014,mazda,mazda3 i sv sedan 4d,good,31866,clean,automatic,sedan,,fl,25.77,-80.2
+south florida,1999,2018,mazda,3,like new,80273,clean,automatic,,silver,fl,25.822492,-80.316925
+south florida,6995,2012,mazda,mazda3,excellent,91070,clean,automatic,sedan,black,fl,26.093111,-80.142651
+space coast,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,fl,28.17,-80.6
+space coast,2600,2014,mazda,3,,1,clean,automatic,,,fl,28.0691,-80.62
+space coast,2700,2014,mazda,3,,180000,clean,automatic,,,fl,28.0691,-80.62
+tallahassee,2995,2010,mazda,3,,151000,clean,automatic,hatchback,grey,fl,30.375956,-84.292534
+tallahassee,2995,2010,mazda,3,,151000,clean,automatic,hatchback,grey,fl,30.375956,-84.292534
+tallahassee,4500,2013,mazda,3,,147000,clean,automatic,,,fl,30.3991,-84.3298
+tallahassee,2995,2010,mazda,3,,151000,clean,automatic,hatchback,grey,fl,30.375956,-84.292534
+tampa bay area,7995,2014,mazda,mazda3,,155560,clean,manual,hatchback,black,fl,27.999033,-82.459702
+tampa bay area,6500,2008,mazda,3s,good,107500,clean,automatic,sedan,,fl,27.870945,-82.735065
+tampa bay area,2500,2007,mazda,3,good,98503,clean,automatic,hatchback,custom,fl,27.817,-82.6264
+tampa bay area,5500,2005,mazda,3,excellent,92705,clean,manual,hatchback,white,fl,27.8802,-82.7534
+tampa bay area,12450,2016,mazda,mazda3,,58068,clean,automatic,sedan,blue,fl,27.82146,-82.70887
+tampa bay area,16990,2018,mazda,mazda3 touring sedan 4d,good,42960,clean,other,sedan,black,fl,28.44,-82.56
+tampa bay area,9999,2013,mazda,3,excellent,56677,clean,automatic,sedan,black,fl,28.193085,-82.399178
+tampa bay area,7995,2014,mazda,mazda3,,155560,clean,manual,hatchback,black,fl,27.999033,-82.459702
+tampa bay area,12450,2016,mazda,mazda3,,58068,clean,automatic,sedan,blue,fl,27.82146,-82.70887
+tampa bay area,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,fl,27.9,-82.78
+tampa bay area,12795,2016,mazda,mazda3,,40611,clean,automatic,sedan,black,fl,28.004724,-82.506088
+tampa bay area,3995,2008,mazda,3,excellent,144763,clean,automatic,sedan,silver,fl,28.039807,-82.520643
+tampa bay area,6695,2008,mazda,mazda3,,96983,clean,manual,wagon,blue,fl,28.577393,-82.331867
+tampa bay area,5900,2012,mazda,mazda3 gt,good,124802,rebuilt,automatic,hatchback,grey,fl,27.854905,-82.728768
+tampa bay area,15590,2014,mazda,mazda3 i grand touring,good,76880,clean,manual,hatchback,,fl,28.36,-82.19
+tampa bay area,13999,2017,mazda,3,excellent,127944,clean,automatic,hatchback,red,fl,28.899361,-82.374053
+tampa bay area,5950,2012,mazda,3,,93000,clean,automatic,sedan,grey,fl,27.8893,-82.728767
+tampa bay area,6500,2008,mazda,3s,good,107500,clean,automatic,sedan,,fl,27.870945,-82.735065
+tampa bay area,7995,2014,mazda,mazda3,,155560,clean,manual,hatchback,black,fl,27.999033,-82.459702
+tampa bay area,18590,2018,mazda,mazda3 touring hatchback,good,13796,clean,other,hatchback,red,fl,27.99,-82.27
+tampa bay area,5900,2012,mazda,mazda3 gt,good,124802,rebuilt,automatic,hatchback,grey,fl,27.854905,-82.728768
+treasure coast,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,fl,33.7865,-84.4454
+treasure coast,9985,2015,mazda,3,,117000,clean,automatic,,,fl,26.260826,-80.146554
+athens,4850,2010,mazda,3,,150255,clean,automatic,,,ga,34.1062,-83.5708
+atlanta,0,2011,mazda,mazda3,excellent,,clean,automatic,sedan,,ga,33.857,-84.216
+atlanta,17000,2018,mazda,3,excellent,33000,clean,automatic,hatchback,black,ga,33.6823,-84.161
+atlanta,21590,2019,mazda,mazda3 preferred sedan 4d,good,13167,clean,other,sedan,white,ga,33.71,-84.53
+atlanta,2500,2013,mazda,3,,117000,clean,automatic,,,ga,33.857,-84.216
+atlanta,3895,2009,mazda,3,good,117500,clean,automatic,sedan,silver,ga,34.0133,-84.4955
+atlanta,19990,2018,mazda,mazda3 touring sedan 4d,good,16524,clean,other,sedan,black,ga,33.7,-84.38
+atlanta,6999,2014,mazda,3 skyactive,excellent,111000,clean,automatic,hatchback,,ga,33.8901,-83.9632
+atlanta,20590,2017,mazda,mazda3 grand touring sedan,good,4317,clean,other,sedan,red,ga,33.75,-84.39
+atlanta,13992,2017,mazda,mazda3,,61240,clean,automatic,sedan,blue,ga,33.925711,-84.541608
+columbus,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ga,32.51,-84.87
+savannah / hinesville,8900,2012,mazda,mazda3,,89000,clean,automatic,,black,ga,32.1082,-81.1746
+hawaii,219,2017,mazda,mazda3 4-door sport auto,,19552,clean,automatic,sedan,,hi,21.328284,-157.871254
+hawaii,12988,2014,mazda,mazda3,,76517,clean,automatic,,blue,hi,21.377105,-158.023701
+hawaii,9995,2014,mazda,mazda3,excellent,78020,clean,automatic,,blue,hi,21.4947,-158.0336
+hawaii,103,2010,mazda,mazda3 4dr sdn auto i spo,,80724,clean,manual,sedan,,hi,21.335092,-157.903025
+hawaii,1000,2003,mazda,3,,128617,rebuilt,automatic,,,hi,21.3453,-158.087
+hawaii,3500,2007,mazda,3,good,157000,clean,manual,,silver,hi,20.87071,-156.521498
+hawaii,12999,2013,mazda,3,,10007,clean,automatic,sedan,white,hi,21.344826,-157.897735
+hawaii,24988,2019,mazda,3,,6517,clean,automatic,,,hi,21.3488,-157.8759
+hawaii,600,2005,mazda,3,fair,201400,clean,automatic,sedan,white,hi,20.8469,-156.3327
+hawaii,7400,2010,mazda,mazda3,good,92830,clean,automatic,hatchback,white,hi,21.3179,-157.8521
+hawaii,13000,2014,mazda,3 touring,,49518,clean,automatic,,,hi,21.3982,-158.0124
+hawaii,14000,2014,mazda,3,,53880,clean,automatic,,,hi,21.3982,-158.0124
+hawaii,18595,2017,mazda,mazda3 4-door,,14271,clean,automatic,sedan,grey,hi,21.334986,-157.903554
+hawaii,8500,2011,mazda,3,,85162,clean,automatic,,,hi,21.299603,-157.83806
+hawaii,12999,2014,mazda,mazda3 hatchback,excellent,52896,clean,manual,hatchback,grey,hi,21.344826,-157.897735
+hawaii,103,2010,mazda,mazda3,,80724,clean,manual,sedan,,hi,21.335092,-157.903025
+boise,6995,2009,mazda,mazda3,good,134250,clean,automatic,sedan,silver,id,44.0655,-116.9313
+boise,14991,2018,mazda,mazda3 4-door,excellent,65840,clean,manual,sedan,blue,id,43.61855,-116.317324
+boise,0,2014,mazda,mazda3 i touring,,70992,clean,automatic,sedan,,id,43.602087,-116.505746
+boise,8000,2008,mazda,mazda3,,130000,clean,manual,,,id,44.826576,-117.762493
+boise,20460,2017,mazda,mazda3 5-door,,10205,clean,automatic,hatchback,,id,43.620365,-116.321524
+boise,13991,2018,mazda,mazda3 4-door,excellent,1,clean,manual,sedan,blue,id,43.634,-116.3419
+boise,14991,2018,mazda,mazda3,,65840,clean,automatic,sedan,blue,id,38.597771,-121.403061
+boise,9999,2012,mazda,mazda3,,61857,clean,automatic,sedan,grey,id,44.06509,-116.92924
+boise,9372,2012,mazda,mazda3,,113144,clean,automatic,sedan,white,id,43.618712,-116.300339
+boise,175,2010,mazda,3 sport,excellent,146114,clean,automatic,sedan,black,id,43.627287,-116.245807
+boise,175,2010,mazda,3 sport,excellent,146114,clean,automatic,sedan,black,id,43.627287,-116.245807
+boise,25000,2019,mazda,3,like new,8700,clean,automatic,hatchback,red,id,43.6322,-116.2052
+lewiston / clarkston,18995,2018,mazda,mazda3,,47833,clean,automatic,other,red,id,46.206891,-116.896288
+lewiston / clarkston,9980,2011,mazda,mazda3,,131239,clean,automatic,sedan,black,id,47.692931,-117.411632
+lewiston / clarkston,0,2010,mazda,mazda3,,135686,clean,automatic,sedan,blue,id,47.692931,-117.411632
+pullman / moscow,0,2004,mazda,mazda3,,147274,clean,automatic,hatchback,blue,id,47.656773,-117.218613
+pullman / moscow,9980,2011,mazda,mazda3,,131239,clean,automatic,sedan,black,id,47.692931,-117.411632
+pullman / moscow,0,2010,mazda,mazda3,,135686,clean,automatic,sedan,blue,id,47.692931,-117.411632
+spokane / coeur d'alene,0,2004,mazda,mazda3,,147274,clean,automatic,hatchback,blue,id,47.656773,-117.218613
+spokane / coeur d'alene,7495,2010,mazda,mazda3,good,151543,clean,automatic,hatchback,red,id,47.664,-117.5638
+spokane / coeur d'alene,6995,2006,mazda,mazda3,good,126391,clean,automatic,hatchback,grey,id,47.664,-117.5638
+spokane / coeur d'alene,9980,2011,mazda,mazda3,,131239,clean,automatic,sedan,black,id,47.692931,-117.411632
+spokane / coeur d'alene,0,2004,mazda,mazda3,,147274,clean,automatic,hatchback,blue,id,47.656773,-117.218613
+spokane / coeur d'alene,7500,2012,mazda,3,excellent,126622,clean,manual,hatchback,silver,id,47.6421,-117.1977
+spokane / coeur d'alene,13000,2015,mazda,3,excellent,101791,clean,automatic,hatchback,white,id,47.4943,-117.5834
+spokane / coeur d'alene,9997,2012,mazda,mazda3,excellent,68782,clean,manual,hatchback,silver,id,47.737767,-117.412158
+spokane / coeur d'alene,8497,2011,mazda,mazda3,excellent,91189,clean,manual,sedan,silver,id,47.737767,-117.412158
+spokane / coeur d'alene,7495,2010,mazda,mazda3,good,151543,clean,automatic,hatchback,red,id,47.664,-117.5638
+spokane / coeur d'alene,6995,2006,mazda,mazda3,good,126391,clean,automatic,hatchback,grey,id,47.664,-117.5638
+spokane / coeur d'alene,0,2004,mazda,mazda3,,147274,clean,automatic,hatchback,blue,id,47.656773,-117.218613
+spokane / coeur d'alene,16995,2015,mazda,mazda3 s touring,,60612,clean,automatic,hatchback,black,id,47.656368,-117.311258
+spokane/coeurd'alene,8320,2012,mazda,mazda3 i touring,,139568,clean,automatic,sedan,,id,47.656981,-117.175501
+spokane/coeurd'alene,8995,2013,mazda,mazda3 i touring,,87870,clean,automatic,sedan,grey,id,47.656893,-117.31189
+spokane/coeurd'alene,7495,2010,mazda,mazda3,good,151543,clean,automatic,hatchback,red,id,47.664,-117.5638
+spokane/coeurd'alene,6995,2006,mazda,mazda3,good,126391,clean,automatic,hatchback,grey,id,47.664,-117.5638
+chicago,5740,2010,mazda,3,good,118500,clean,automatic,sedan,silver,il,41.976303,-88.007441
+chicago,4800,2013,mazda,3,excellent,123000,clean,automatic,,,il,41.8378,-87.7602
+chicago,18590,2014,mazda,mazda3 s grand touring,good,42371,clean,other,sedan,silver,il,41.83,-87.68
+chicago,16990,2015,mazda,mazda3 s grand touring,good,50811,clean,other,sedan,red,il,41.83,-87.68
+chicago,4995,2011,mazda,mazda3 i sport,,122949,,manual,sedan,black,il,41.572305,-88.113993
+chicago,15949,2017,mazda,mazda3 sport,excellent,65064,,automatic,sedan,,il,41.806344,-87.723149
+chicago,1300,2005,mazda,mazda3,,1,clean,automatic,hatchback,blue,il,41.622595,-87.633814
+chicago,1700,2008,mazda,mazda3,,1,clean,automatic,sedan,black,il,41.622595,-87.633814
+chicago,1300,2005,mazda,mazda3,,1,clean,automatic,sedan,,il,41.622595,-87.633814
+chicago,2500,2013,mazda,mazda3,,1,clean,automatic,sedan,silver,il,41.622595,-87.633814
+chicago,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,il,41.88,-87.78
+chicago,8495,2014,mazda,3 grand touring,excellent,103870,clean,automatic,sedan,brown,il,41.55,-87.4569
+chicago,4999,2008,mazda,mazda3 i sport,,118374,clean,automatic,sedan,,il,42.03685,-88.264418
+chicago,4977,2007,mazda,mazda3 s grand touring,,134099,clean,manual,sedan,black,il,41.52423,-88.098659
+quadcities IA/IL,13952,2017,mazda,mazda3,,82595,clean,automatic,,,il,41.514746,-90.423671
+quadcities IA/IL,12673,2016,mazda,mazda3 sport,,69900,clean,automatic,,,il,41.51473,-90.423644
+quadcities IA/IL,4299,2009,mazda,3,good,151000,clean,automatic,SUV,black,il,41.4913,-90.5648
+quadcities IA/IL,12423,2016,mazda,3 i-sport,,73147,clean,automatic,,,il,41.514706,-90.423773
+rockford,4395,2006,mazda,3,excellent,122000,clean,automatic,sedan,,il,42.327379,-89.027689
+rockford,8500,2015,mazda,3,excellent,81000,clean,automatic,,red,il,42.2514,-89.0235
+rockford,6495,2013,mazda,mazda3,,158867,clean,automatic,,,il,42.3295,-89.0335
+southernillinois,5950,2011,mazda,3,good,103000,clean,automatic,,,il,38.31816,-88.878824
+stlouis MO,1800,2009,mazda,3,good,174000,clean,automatic,,black,il,38.4566,-90.3282
+stlouis MO,5450,2010,mazda,mazda3,,150262,clean,other,,,il,38.4069,-90.4381
+stlouis MO,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,il,38.63,-90.24
+stlouis MO,7250,2011,mazda,mazda3,good,96382,rebuilt,automatic,sedan,silver,il,38.479493,-90.741664
+stlouis MO,5450,2010,mazda,mazda3,,150262,clean,other,,,il,38.4069,-90.4381
+stlouis MO,5700,2010,mazda,3,excellent,99000,clean,automatic,sedan,black,il,38.805,-89.9637
+st louis  MO,5450,2010,mazda,mazda3,,150262,clean,other,,,il,38.4069,-90.4381
+st louis  MO,5900,2013,mazda,3,good,121000,clean,automatic,sedan,silver,il,38.8069,-90.3401
+fort wayne,12400,2017,mazda,3 sport sedan 4d,excellent,59752,clean,manual,sedan,silver,in,40.734274,-85.187376
+indianapolis,4900,2010,mazda,3 sport,excellent,155000,clean,automatic,sedan,black,in,39.6789,-86.1302
+indianapolis,5300,2013,mazda,mazda3 i sport,good,186000,clean,automatic,sedan,black,in,39.7154,-86.0933
+indianapolis,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,in,39.77,-86.14
+indianapolis,2672,2004,mazda,mazda3,,167322,clean,manual,,silver,in,39.720422,-86.353668
+indianapolis,4995,2009,mazda,3 s sport,excellent,170469,clean,automatic,hatchback,red,in,39.684518,-86.133564
+indianapolis,6995,2012,mazda,3 i-touring,excellent,125699,clean,automatic,sedan,black,in,39.684419,-86.133435
+indianapolis,8500,2015,mazda,mazda3,excellent,132000,clean,automatic,sedan,red,in,39.721344,-86.091048
+south bend / michiana,7895,2010,mazda,mazda3,,107444,clean,automatic,,,in,41.604567,-85.872891
+south bend / michiana,7500,2012,mazda,3,excellent,75011,rebuilt,automatic,hatchback,silver,in,41.7101,-85.9729
+south bend / michiana,8450,2013,mazda,3 i gt,excellent,72500,rebuilt,automatic,sedan,black,in,41.801027,-86.075219
+south bend / michiana,7895,2010,mazda,mazda3,,107444,clean,automatic,,,in,41.604567,-85.872891
+cedar rapids,6695,2013,mazda,mazda3,good,131337,clean,automatic,sedan,white,ia,42.011896,-91.635014
+cedar rapids,7995,2011,mazda,mazda3,good,101471,clean,automatic,hatchback,grey,ia,42.011896,-91.635014
+cedar rapids,3800,2008,mazda,3,fair,94000,clean,manual,sedan,red,ia,42.0327,-91.6192
+cedar rapids,5900,2010,mazda,3,excellent,115428,clean,automatic,hatchback,black,ia,41.9521,-91.6853
+des moines,6995,2010,mazda,mazda3,excellent,143040,clean,automatic,sedan,,ia,41.600976,-93.58129
+des moines,13850,2017,mazda,3 touring,excellent,18062,rebuilt,automatic,hatchback,silver,ia,41.2949,-96.0546
+des moines,4400,2006,mazda,mazda3,excellent,112000,clean,automatic,wagon,blue,ia,42.484503,-92.324974
+des moines,3500,2004,mazda,3,good,143000,clean,automatic,coupe,grey,ia,41.181205,-93.729108
+des moines,5995,2010,mazda,3,,141012,clean,automatic,,,ia,41.627312,-93.651731
+des moines,7950,2012,mazda,3i touring,,82036,salvage,automatic,sedan,grey,ia,41.580333,-93.557639
+dubuque,2900,2008,mazda,3,,104739,salvage,automatic,,,ia,42.4649,-90.6829
+omaha / council bluffs,11495,2016,mazda,mazda3,excellent,95247,clean,automatic,hatchback,red,ia,41.23329,-96.157814
+omaha / council bluffs,3500,2005,mazda,3,excellent,140907,clean,manual,hatchback,orange,ia,41.241382,-95.991546
+omaha / council bluffs,5200,2013,mazda,3,excellent,140907,clean,automatic,sedan,grey,ia,41.241382,-95.991546
+omaha / council bluffs,9995,2015,mazda,mazda3,,36795,rebuilt,automatic,sedan,grey,ia,41.207382,-96.023096
+omaha / council bluffs,5200,2013,mazda,3,excellent,140907,clean,automatic,sedan,grey,ia,41.241382,-95.991546
+omaha / council bluffs,13850,2017,mazda,3 touring,excellent,18062,rebuilt,automatic,hatchback,silver,ia,41.2949,-96.0546
+omaha / council bluffs,3500,2005,mazda,3,excellent,140907,clean,manual,hatchback,orange,ia,41.241382,-95.991546
+sioux city,4750,2013,mazda,mazda3,,170000,clean,automatic,sedan,silver,ia,42.537373,-96.744147
+waterloo / cedar falls,4400,2006,mazda,mazda3,excellent,112000,clean,automatic,wagon,blue,ia,42.484503,-92.324974
+kansas city  MO,5995,2007,mazda,3,,227000,clean,automatic,,,ks,38.9985,-94.1399
+kansas city  MO,4950,2007,mazda,mazda3 i sport,,139300,clean,automatic,sedan,silver,ks,39.0803,-94.7806
+kansas city  MO,16990,2015,mazda,mazda3 s grand touring,good,50811,clean,other,sedan,red,ks,39.09,-94.58
+kansas city  MO,6197,2011,mazda,mazda3,,131140,clean,automatic,sedan,,ks,39.029278,-94.692924
+kansas city  MO,6700,2010,mazda,3i,excellent,102557,clean,manual,sedan,silver,ks,38.620535,-94.680939
+kansas city  MO,5450,2012,mazda,mazda3,excellent,170117,clean,automatic,sedan,black,ks,39.065235,-94.857983
+kansas city  MO,0,2005,mazda,mazda3,,180713,clean,automatic,,,ks,38.943781,-94.436011
+kansas city  MO,9491,2012,mazda,mazda3,,94034,clean,automatic,sedan,grey,ks,39.030074,-94.281498
+kansas city  MO,5995,2007,mazda,3,,227000,clean,automatic,,,ks,38.9985,-94.1399
+kansas city  MO,15590,2015,mazda,mazda3 i sv sedan 4d,good,23726,clean,other,sedan,red,ks,39.09,-94.58
+kansas city  MO,1650,2004,mazda,mazda3,good,176000,clean,automatic,sedan,silver,ks,39.1776,-94.6321
+kansas city  MO,6995,2008,mazda,mazda3 i sport,,153058,clean,automatic,sedan,blue,ks,39.221593,-94.470999
+kansas city  MO,8495,2013,mazda,mazda3 i sv,,110589,clean,automatic,sedan,white,ks,39.221593,-94.470999
+kansas city  MO,6197,2011,mazda,mazda3,,131140,clean,automatic,sedan,,ks,39.029278,-94.692924
+kansas city  MO,4950,2007,mazda,mazda3 i sport,,139300,clean,manual,sedan,silver,ks,39.0803,-94.7806
+kansas city  MO,5995,2007,mazda,3,,227000,clean,automatic,,,ks,38.9985,-94.1399
+kansas city  MO,6197,2011,mazda,mazda3 sdn auto i sport,excellent,131140,,automatic,sedan,,ks,39.029236,-94.692922
+manhattan,6495,2010,mazda,mazda3,,150776,clean,automatic,other,white,ks,39.040495,-96.829087
+wichita,8750,2013,mazda,3,excellent,81300,clean,automatic,hatchback,grey,ks,37.7667,-97.2805
+wichita,6950,2012,mazda,3,,110124,clean,automatic,,,ks,37.559442,-97.333923
+wichita,11495,2015,mazda,mazda3,excellent,75267,clean,automatic,sedan,brown,ks,37.668,-97.3591
+wichita,8999,2013,mazda,3,excellent,81300,clean,automatic,hatchback,grey,ks,37.7667,-97.2805
+wichita,10999,2016,mazda,mazda3,excellent,65014,clean,automatic,sedan,black,ks,37.6662,-97.3165
+wichita,5995,2013,mazda,3,excellent,82000,rebuilt,automatic,sedan,grey,ks,37.6076,-97.3084
+wichita,10999,2016,mazda,mazda3,excellent,65014,clean,automatic,sedan,black,ks,37.6662,-97.3165
+wichita,3750,2007,mazda,3,,131000,rebuilt,automatic,,white,ks,37.694527,-97.412873
+lexington,10981,2014,mazda,mazda3,excellent,79511,clean,automatic,sedan,red,ky,37.911918,-84.559276
+lexington,14984,2016,mazda,mazda3,,65220,clean,automatic,sedan,,ky,38.219687,-84.541856
+louisville,5995,2016,mazda,3,like new,76881,rebuilt,automatic,,red,ky,34.135223,-84.247971
+louisville,18995,2016,mazda,mazda3,,114229,clean,automatic,hatchback,black,ky,38.153183,-85.693732
+owensboro,9850,2015,mazda,3,,135000,clean,automatic,,black,ky,37.788217,-87.05678
+baton rouge,15990,2014,mazda,mazda3 i touring hatchback,good,28647,clean,other,hatchback,,la,30.44,-91.12
+baton rouge,21590,2020,mazda,mazda3 preferred sedan 4d,good,2514,clean,other,sedan,red,la,30.44,-91.12
+new orleans,3890,2010,mazda,3,,142000,clean,automatic,,grey,la,30.0129,-90.1915
+new orleans,5795,2008,mazda,3,,142655,clean,automatic,sedan,blue,la,29.993717,-90.181751
+new orleans,0,2018,mazda,3,,38440,clean,automatic,,,la,29.9871,-90.1695
+new orleans,0,2018,mazda,3,,38440,clean,automatic,,,la,29.9871,-90.1695
+new orleans,0,2018,mazda,3,,38440,clean,automatic,,,la,29.9871,-90.1695
+new orleans,5795,2008,mazda,3,,142655,clean,automatic,sedan,blue,la,29.993717,-90.181751
+new orleans,5795,2008,mazda,3,,142655,clean,automatic,sedan,blue,la,29.993717,-90.181751
+new orleans,6500,2013,mazda,3,good,101700,lien,automatic,sedan,blue,la,30.0056,-90.0644
+new orleans,5795,2008,mazda,3,,142655,clean,automatic,sedan,blue,la,29.993717,-90.181751
+maine,4500,2010,mazda,3,excellent,146671,clean,automatic,hatchback,grey,me,43.807255,-69.992557
+maine,7499,2012,mazda,3 s grand touring,excellent,131540,clean,manual,,,me,44.274287,-70.271233
+maine,5950,2013,mazda,3 i touring 2.0l,excellent,150000,clean,automatic,hatchback,blue,me,42.977392,-71.455185
+maine,400,2006,mazda,3,salvage,165000,clean,automatic,,,me,47.2826,-68.3917
+maine,6495,2010,mazda,3,excellent,98040,clean,automatic,sedan,black,me,42.701563,-71.314316
+maine,10990,2015,mazda,mazda3,,78500,clean,manual,,,me,43.452464,-70.496353
+maine,3995,2012,mazda,mazda3,,180772,clean,manual,hatchback,,me,42.8874,-71.302
+maine,6300,2013,mazda,3i,,100000,clean,manual,,black,me,43.155987,-70.81432
+annapolis,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,md,38.97,-76.5
+baltimore,15500,2016,mazda,3,excellent,26397,clean,automatic,hatchback,red,md,39.3337,-76.6098
+baltimore,4300,2008,mazda,3,like new,192000,clean,automatic,sedan,red,md,39.1618,-76.6297
+baltimore,1750,2006,mazda,3,good,234,clean,manual,hatchback,black,md,39.5303,-76.3153
+baltimore,5900,2007,mazda,3,excellent,115342,clean,manual,sedan,black,md,39.443487,-76.487846
+baltimore,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,md,39.3,-76.61
+baltimore,0,2018,mazda,mazda3,,51857,clean,automatic,hatchback,blue,md,38.823449,-76.947378
+baltimore,4500,2004,mazda,3,excellent,89000,clean,manual,sedan,silver,md,39.405345,-76.927537
+baltimore,0,2017,mazda,mazda3,,81138,clean,automatic,hatchback,white,md,38.63344,-76.90409
+baltimore,6995,2012,mazda,mazda3,,124081,clean,automatic,hatchback,blue,md,39.492412,-76.674443
+baltimore,7600,2014,mazda,3 skyactiv,excellent,107000,clean,automatic,sedan,grey,md,39.6264,-75.8458
+baltimore,11795,2014,mazda,mazda3,,83327,clean,automatic,hatchback,blue,md,39.492412,-76.674443
+baltimore,2100,2005,mazda,mazda3,,193292,clean,automatic,sedan,,md,39.433086,-76.343119
+baltimore,15999,2018,mazda,mazda3,,30387,clean,automatic,sedan,,md,39.354283,-76.699138
+eastern shore,6995,2009,mazda,3s touring,excellent,127693,clean,automatic,,silver,md,38.5596,-75.2113
+eastern shore,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,md,38.33,-75.08
+eastern shore,9500,2013,mazda,3,excellent,55000,clean,manual,wagon,red,md,38.7768,-76.0758
+frederick,13977,2013,mazda,mazda3,,117600,clean,manual,hatchback,red,md,38.746031,-77.506607
+southern maryland,14990,2015,mazda,mazda3 i sv sedan 4d,good,51323,clean,other,sedan,brown,md,38.82,-77.08
+southern maryland,0,2017,mazda,mazda3,,81138,clean,automatic,hatchback,white,md,38.63344,-76.90409
+western maryland,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,md,33.7865,-84.4454
+western maryland,4999,2008,mazda,3,excellent,133700,clean,manual,hatchback,,md,39.6573,-77.6921
+boston,15990,2013,mazda,mazda3 i touring hatchback,good,26490,clean,other,hatchback,red,ma,42.26,-71
+boston,6995,2010,mazda,mazda3,excellent,123554,clean,automatic,sedan,black,ma,42.833518,-71.107205
+boston,3000,2006,mazda,3,good,151000,clean,automatic,,grey,ma,42.4633,-71.0111
+boston,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,ma,42.35,-71.06
+boston,19990,2018,mazda,mazda3 touring sedan 4d,good,16524,clean,other,sedan,black,ma,42.37,-71.11
+boston,6995,2010,mazda,mazda3,good,134000,clean,automatic,hatchback,grey,ma,42.30506,-71.05577
+boston,6995,2011,mazda,mazda3,good,120000,clean,automatic,hatchback,blue,ma,42.30506,-71.05577
+boston,4195,2010,mazda,3,excellent,170000,clean,manual,sedan,grey,ma,42.7846,-71.2176
+boston,4995,2010,mazda,3,,129000,clean,automatic,sedan,grey,ma,42.080347,-70.937772
+boston,6995,2013,mazda,mazda3,,100531,clean,automatic,sedan,black,ma,42.023457,-71.142876
+boston,9250,2011,mazda,mazda3,,64830,clean,automatic,sedan,silver,ma,42.68101,-71.42583
+boston,5950,2013,mazda,3 i touring 2.0l,excellent,150000,clean,automatic,hatchback,blue,ma,42.9774,-71.455014
+boston,4295,2008,mazda,3,,129121,clean,automatic,,,ma,42.2836,-71.1295
+boston,8995,2016,mazda,mazda3,excellent,102000,clean,manual,sedan,blue,ma,43.188723,-71.504929
+boston,7490,2013,mazda,3 6 speed,like new,151900,clean,manual,sedan,grey,ma,41.98208,-70.694617
+boston,4995,2010,mazda,3,,129000,clean,automatic,sedan,grey,ma,42.080347,-70.937772
+cape cod / islands,4800,2007,mazda,mazda3,,107000,clean,automatic,,,ma,41.9296,-71.3009
+south coast,11200,2015,mazda,3,excellent,147600,clean,automatic,,blue,ma,-23.023822,-101.199306
+south coast,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ma,42.35,-71.06
+western massachusetts,3000,2006,mazda,3,,165000,clean,automatic,sedan,grey,ma,42.0732,-72.6178
+western massachusetts,1988,2009,mazda,mazda3,,213708,clean,automatic,sedan,red,ma,41.915593,-72.61482
+western massachusetts,5000,2008,mazda,mazda3,excellent,73940,clean,automatic,sedan,black,ma,42.103542,-72.613653
+western massachusetts,17990,2017,mazda,mazda3 touring 2.5,good,44997,clean,other,hatchback,,ma,42.11,-72.53
+western massachusetts,1988,2009,mazda,mazda3,,213708,clean,automatic,sedan,red,ma,41.915593,-72.61482
+western massachusetts,1988,2009,mazda,mazda3,,213708,clean,automatic,sedan,red,ma,41.915593,-72.61482
+western massachusetts,23000,2019,mazda,3,excellent,6249,clean,automatic,hatchback,grey,ma,42.499401,-72.749735
+worcester / central MA,7991,2012,mazda,mazda3,,107594,clean,automatic,,,ma,42.20939,-71.808262
+worcester / central MA,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ma,42.26,-71.8
+worcester / central MA,4800,2007,mazda,mazda3,,107000,clean,automatic,,,ma,41.9296,-71.3009
+worcester / central MA,7995,2012,mazda,mazda3 i touring,like new,62100,clean,automatic,sedan,grey,ma,42.1655,-71.886
+worcester / central MA,1988,2009,mazda,mazda3,,213708,clean,automatic,sedan,red,ma,41.915593,-72.61482
+worcester / central MA,5500,2012,mazda,3i,good,142000,clean,automatic,,white,ma,42.083946,-71.639458
+worcester / central MA,2500,2007,mazda,3,good,149800,clean,automatic,sedan,blue,ma,42.2714,-71.8112
+worcester / central MA,15590,2015,mazda,mazda3 i sv sedan 4d,good,51321,clean,other,sedan,brown,ma,42.26,-71.8
+ann arbor,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,mi,42.27,-83.73
+ann arbor,2000,2008,mazda,3,good,139460,clean,automatic,,blue,mi,42.2272,-83.5787
+detroit metro,6500,2012,mazda,3,good,99887,clean,automatic,sedan,black,mi,42.4086,-83.4978
+detroit metro,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,mi,42.46,-83.37
+detroit metro,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,mi,42.22,-83.36
+detroit metro,3500,2008,mazda,3,good,178000,clean,manual,hatchback,white,mi,42.460257,-83.147853
+flint,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,mi,43.02,-83.69
+flint,5995,2014,mazda,3,,1,clean,automatic,,,mi,43.1824,-84.1122
+grand rapids,15999,2017,mazda,3 touring,like new,42072,clean,automatic,sedan,grey,mi,42.7171,-85.789
+grand rapids,7639,2010,mazda,mazda3 s sport 4d hatchback automatic,,77745,clean,automatic,wagon,silver,mi,43.04587,-85.6071
+grand rapids,5995,2014,mazda,3,,1,clean,automatic,,,mi,43.1824,-84.1122
+holland,5400,2011,mazda,mazda3,excellent,104500,clean,automatic,,black,mi,42.804907,-86.071379
+holland,6950,2010,mazda,mazda3,good,115397,clean,automatic,sedan,blue,mi,42.912954,-85.680286
+jackson,4500,2011,mazda,3,fair,213000,lien,manual,mini-van,blue,mi,42.2634,-84.4083
+kalamazoo,3900,2007,mazda,3 hatchback,,166500,clean,automatic,,,mi,42.3024,-85.5882
+kalamazoo,6950,2010,mazda,mazda3,good,115397,clean,automatic,sedan,blue,mi,42.912954,-85.680286
+kalamazoo,5495,2010,mazda,mazda3,good,93203,clean,automatic,sedan,black,mi,42.477134,-82.949564
+lansing,6950,2010,mazda,mazda3,good,115397,clean,automatic,sedan,blue,mi,42.912954,-85.680286
+lansing,5995,2014,mazda,3,,1,clean,automatic,,,mi,43.1824,-84.1122
+muskegon,6950,2010,mazda,mazda3,good,115397,clean,automatic,sedan,blue,mi,42.912954,-85.680286
+saginaw-midland-baycity,3495,2006,mazda,3,good,136294,clean,automatic,sedan,silver,mi,43.4248,-83.9745
+saginaw-midland-baycity,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,mi,43.41,-83.94
+duluth / superior,6995,2009,mazda,mazda3,excellent,146772,clean,automatic,,grey,mn,46.843343,-92.254963
+minneapolis / st paul,9800,2015,mazda,mazda3,excellent,93000,clean,manual,hatchback,red,mn,45.1824,-92.9452
+minneapolis / st paul,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,mn,43.82,-91.23
+minneapolis / st paul,19990,2018,mazda,mazda3 touring sedan 4d,good,16524,clean,other,sedan,black,mn,45.034712,-93.049396
+minneapolis / st paul,5995,2008,mazda,3,good,108213,clean,automatic,,blue,mn,46.012979,-92.77556
+minneapolis / st paul,18590,2014,mazda,mazda3 s grand touring,good,42371,clean,other,sedan,silver,mn,44.98,-93.56
+minneapolis / st paul,16990,2015,mazda,mazda3 s grand touring,good,50811,clean,other,sedan,red,mn,45.20332,-93.39728
+minneapolis / st paul,9500,2014,mazda,3,,70608,clean,manual,,,mn,44.9041,-93.749
+minneapolis / st paul,7200,2010,mazda,3 hatchback,good,88700,clean,automatic,hatchback,black,mn,44.9497,-93.3373
+rochester,3990,2004,mazda,mazda3,excellent,149000,clean,automatic,,,mn,44.0496,-92.4896
+jackson,8500,2013,mazda,3,excellent,85939,clean,automatic,sedan,white,ms,32.278352,-90.147605
+north mississippi,4900,2009,mazda,3,good,129460,clean,automatic,sedan,blue,ms,34.3831,-88.6674
+springfield,13980,2014,mazda,mazda3 i touring,good,94703,clean,automatic,sedan,,mo,37.204246,-93.227256
+springfield,16995,2015,mazda,mazda3,good,41000,clean,automatic,hatchback,custom,mo,37.209641,-93.266149
+springfield,15500,2018,mazda,3,good,59950,lien,automatic,sedan,blue,mo,37.1668,-93.3085
+billings,6000,2010,mazda,mazda3,good,152000,clean,automatic,sedan,black,mt,45.614034,-108.386684
+eastern montana,6500,2013,mazda,3,fair,65000,clean,manual,,red,mt,44.1415,-103.2052
+kalispell,3200,2006,mazda,3,good,138000,clean,automatic,,grey,mt,48.196,-114.312
+missoula,6900,2013,mazda,3,like new,93241,clean,automatic,,,mt,46.9776,-114.0619
+missoula,9980,2011,mazda,mazda3,,131239,clean,automatic,sedan,black,mt,47.692931,-117.411632
+missoula,0,2010,mazda,mazda3,,135686,clean,automatic,sedan,blue,mt,47.692931,-117.411632
+asheville,0,2018,mazda,3,like new,27560,clean,automatic,hatchback,silver,nc,35.665,-82.493
+asheville,0,2010,mazda,mazda3,,172513,clean,automatic,sedan,silver,nc,35.275784,-81.534382
+asheville,4500,2008,mazda,3,excellent,212256,clean,automatic,coupe,red,nc,35.5258,-82.3985
+charlotte,9499,2013,mazda,mazda3,,130112,clean,automatic,hatchback,red,nc,36.024189,-79.802689
+charlotte,13988,2016,mazda,mazda3,,57003,clean,manual,sedan,blue,nc,34.940873,-80.969297
+charlotte,16997,2020,mazda,3i sport,excellent,1459,rebuilt,automatic,sedan,black,nc,35.080492,-80.675883
+charlotte,0,2012,mazda,mazda3,,84092,clean,manual,hatchback,black,nc,35.354893,-80.620315
+charlotte,0,2010,mazda,mazda3,,172513,clean,automatic,sedan,silver,nc,35.275784,-81.534382
+charlotte,13988,2016,mazda,mazda3,,57003,clean,manual,sedan,blue,nc,34.940873,-80.969297
+charlotte,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,nc,35.19,-80.83
+charlotte,7500,2014,mazda,3,excellent,113189,clean,automatic,sedan,brown,nc,35.010881,-80.580991
+charlotte,0,2013,mazda,3,,136000,clean,automatic,,silver,nc,35.199054,-80.795011
+charlotte,0,2008,mazda,mazda3,,124997,clean,automatic,sedan,blue,nc,35.275784,-81.534382
+charlotte,4299,2011,mazda,3,excellent,108000,salvage,automatic,sedan,black,nc,35.3314,-80.7372
+charlotte,4800,2006,mazda,3,excellent,161775,clean,automatic,,,nc,35.2358,-80.8964
+eastern NC,18590,2014,mazda,mazda3 s grand touring,good,42371,clean,other,sedan,silver,nc,35.59,-77.37
+fayetteville,7950,2010,mazda,mazda3,,154560,clean,automatic,sedan,white,nc,35.0743,-78.8836
+fayetteville,18590,2014,mazda,mazda3 s grand touring,good,42371,clean,other,sedan,silver,nc,35.05,-78.87
+fayetteville,7950,2007,mazda,mazda3,,157884,clean,automatic,sedan,blue,nc,35.0743,-78.8836
+fayetteville,7950,2010,mazda,mazda3,,154560,clean,automatic,sedan,white,nc,35.0743,-78.8836
+fayetteville,7950,2007,mazda,mazda3,,157884,clean,automatic,sedan,blue,nc,35.0743,-78.8836
+fayetteville,7950,2010,mazda,mazda3,,154560,clean,automatic,sedan,white,nc,35.0743,-78.8836
+fayetteville,7950,2007,mazda,mazda3,,157884,clean,automatic,sedan,blue,nc,35.0743,-78.8836
+fayetteville,7950,2010,mazda,mazda3,,154560,clean,automatic,sedan,white,nc,35.0743,-78.8836
+fayetteville,7950,2007,mazda,mazda3,,157884,clean,automatic,sedan,blue,nc,35.0743,-78.8836
+fayetteville,7950,2010,mazda,mazda3,,154560,clean,automatic,sedan,white,nc,35.0743,-78.8836
+fayetteville,7950,2007,mazda,mazda3,,157884,clean,automatic,sedan,blue,nc,35.0743,-78.8836
+fayetteville,7950,2010,mazda,mazda3,,154560,clean,automatic,sedan,white,nc,35.0743,-78.8836
+fayetteville,9499,2013,mazda,mazda3,,130112,clean,automatic,hatchback,red,nc,36.024189,-79.802689
+fayetteville,7950,2007,mazda,mazda3,,157884,clean,automatic,sedan,blue,nc,35.0743,-78.8836
+fayetteville,7950,2010,mazda,mazda3,,154560,clean,automatic,sedan,white,nc,35.0743,-78.8836
+fayetteville,7950,2007,mazda,mazda3,,157884,clean,automatic,sedan,blue,nc,35.0743,-78.8836
+fayetteville,7950,2007,mazda,mazda3,,157884,clean,automatic,sedan,blue,nc,35.0743,-78.8836
+fayetteville,7950,2010,mazda,mazda3,,154560,clean,automatic,sedan,white,nc,35.0743,-78.8836
+fayetteville,7950,2007,mazda,mazda3,,157884,clean,automatic,sedan,blue,nc,35.0743,-78.8836
+fayetteville,7950,2010,mazda,mazda3,,154560,clean,automatic,sedan,white,nc,35.0743,-78.8836
+fayetteville,7950,2006,mazda,mazda3,,145411,clean,automatic,sedan,silver,nc,35.0743,-78.8836
+fayetteville,7950,2007,mazda,mazda3,,157884,clean,automatic,sedan,blue,nc,35.0743,-78.8836
+greensboro,15990,2017,mazda,mazda3 i touring,excellent,30822,clean,manual,,grey,nc,35.8014,-78.6877
+greensboro,3700,2008,mazda,mazda3,like new,195027,clean,other,sedan,green,nc,35.942551,-80.000576
+greensboro,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,nc,36.07,-79.82
+greensboro,9499,2013,mazda,mazda3,,130112,clean,automatic,hatchback,red,nc,36.024189,-79.802689
+greensboro,0,2012,mazda,mazda3,,,,,,,nc,36.060822,-79.875017
+hickory / lenoir,0,2013,mazda,mazda3,,159087,clean,automatic,sedan,black,nc,35.48163,-81.19259
+raleigh / durham / CH,9499,2013,mazda,mazda3,,130112,clean,automatic,hatchback,red,nc,36.024189,-79.802689
+raleigh / durham / CH,18590,2014,mazda,mazda3 s grand touring,good,42371,clean,other,sedan,silver,nc,35.82,-78.65
+raleigh / durham / CH,4995,2006,mazda,3,excellent,108000,clean,automatic,sedan,silver,nc,35.866492,-78.589912
+raleigh / durham / CH,18990,2018,mazda,mazda3,excellent,36435,clean,automatic,,white,nc,35.843,-78.632
+raleigh / durham / CH,3500,2010,mazda,3,good,191000,clean,automatic,sedan,grey,nc,35.9457,-78.6433
+raleigh / durham / CH,9750,2012,mazda,3,excellent,63393,clean,manual,sedan,grey,nc,35.746234,-78.741245
+raleigh / durham / CH,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,nc,35.82,-78.65
+raleigh / durham / CH,3000,2007,mazda,3,fair,203997,clean,automatic,hatchback,grey,nc,35.985993,-78.962088
+raleigh / durham / CH,5999,2011,mazda,mazda3 i sport,excellent,139689,clean,automatic,sedan,,nc,35.465456,-79.156351
+raleigh / durham / CH,5999,2011,mazda,mazda3 i sport,excellent,139689,clean,automatic,sedan,,nc,35.465456,-79.156351
+raleigh / durham / CH,6795,2010,mazda,3,good,78418,clean,automatic,sedan,black,nc,35.7225,-78.8408
+raleigh / durham / CH,4995,2013,mazda,3,excellent,95000,rebuilt,automatic,hatchback,black,nc,35.8334,-78.5799
+wilmington,4500,2005,mazda,3,excellent,174000,clean,manual,hatchback,white,nc,33.9161,-78.1255
+wilmington,11500,2015,mazda,3,excellent,85000,clean,automatic,sedan,grey,nc,34.3879,-77.6628
+wilmington,5490,2007,mazda,3,excellent,178000,clean,automatic,sedan,silver,nc,34.255088,-77.84425
+winston-salem,7900,2014,mazda,3,excellent,138500,clean,automatic,hatchback,brown,nc,36.0036,-80.4639
+winston-salem,3700,2008,mazda,mazda3,like new,195027,clean,other,sedan,green,nc,35.942551,-80.000576
+winston-salem,2950,2008,mazda,3,good,147000,clean,other,sedan,grey,nc,36.1165,-80.0831
+winston-salem,9499,2013,mazda,mazda3,,130112,clean,automatic,hatchback,red,nc,36.024189,-79.802689
+lincoln,2300,2008,mazda,3,,221000,clean,manual,,,ne,40.8247,-96.6252
+lincoln,5500,2008,mazda,mazda3,excellent,114040,clean,automatic,sedan,custom,ne,41.246369,-95.856528
+lincoln,6995,2010,mazda,mazda3,excellent,114193,clean,automatic,sedan,blue,ne,41.246369,-95.856528
+elko,10995,2010,mazda,mazda3,excellent,0,clean,manual,sedan,,nv,39.442923,-119.771489
+las vegas,7995,2012,mazda,3 i touring,excellent,114200,clean,automatic,sedan,grey,nv,36.195724,-115.092537
+las vegas,5999,2010,mazda,mazda3,,125499,clean,manual,other,red,nv,36.1433,-115.2004
+las vegas,4600,2008,mazda,mazda3 i sport 4-door,excellent,124000,clean,automatic,hatchback,green,nv,36.2044,-115.2233
+las vegas,4650,2010,mazda,3,,165443,clean,automatic,,silver,nv,36.195931,-115.106887
+las vegas,9699,2013,mazda,mazda3,,48594,clean,manual,other,red,nv,36.1433,-115.2004
+las vegas,18990,2016,mazda,mazda3 i grand touring,good,29588,clean,automatic,hatchback,blue,nv,36.17,-115.12
+las vegas,9800,2016,mazda,3,excellent,77800,clean,automatic,,black,nv,36.2956,-115.2419
+las vegas,8699,2013,mazda,mazda3,,81382,clean,automatic,sedan,black,nv,36.1433,-115.2004
+las vegas,9995,2017,mazda,3,like new,50257,clean,automatic,,,nv,36.152,-115.1092
+las vegas,6995,2012,mazda,3 i sport,excellent,117950,clean,automatic,sedan,white,nv,36.195724,-115.092537
+las vegas,12500,2014,mazda,mazda3,,75368,clean,automatic,hatchback,blue,nv,36.143799,-115.098364
+las vegas,3500,2007,mazda,3,good,195000,clean,manual,sedan,red,nv,36.173,-115.0669
+las vegas,0,2018,mazda,mazda3,,33957,clean,automatic,sedan,,nv,33.755638,-116.286258
+central NJ,3400,2008,mazda,3,excellent,131000,clean,automatic,sedan,grey,nj,40.450141,-74.440173
+central NJ,15990,2013,mazda,mazda3 i touring hatchback,good,26490,clean,other,hatchback,red,nj,40.22,-74.76
+central NJ,6495,2012,mazda,mazda3,good,120000,clean,automatic,sedan,grey,nj,40.772908,-74.033719
+central NJ,5500,2012,mazda,3,good,86000,rebuilt,automatic,sedan,black,nj,40.5681,-74.5397
+central NJ,5195,2010,mazda,mazda3,good,114016,clean,manual,sedan,white,nj,40.772908,-74.033719
+central NJ,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,nj,40.22,-74.76
+central NJ,5900,2010,mazda,mazda3,,124010,clean,automatic,sedan,black,nj,40.40825,-74.372882
+central NJ,4800,2006,mazda,mazda3,,117643,clean,automatic,wagon,black,nj,40.40825,-74.372882
+central NJ,4899,2006,mazda,mazda3,good,144764,clean,automatic,sedan,white,nj,40.054771,-74.555703
+central NJ,3995,2013,mazda,3,,97885,salvage,automatic,,,nj,40.67491,-74.225691
+central NJ,2900,2006,mazda,3,good,146500,clean,manual,hatchback,red,nj,40.4367,-74.482
+central NJ,5500,2011,mazda,mazda3 s grand touring,good,127061,clean,automatic,sedan,white,nj,40.4891,-74.4482
+central NJ,3300,2010,mazda,mazda3,,229115,clean,automatic,sedan,white,nj,40.18157,-74.663384
+jersey shore,1900,2004,mazda,3,fair,164000,clean,automatic,,,nj,39.9771,-74.1565
+jersey shore,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,nj,39.26,-74.6
+jersey shore,7995,2012,mazda,3,good,71230,clean,automatic,sedan,black,nj,40.2992,-73.9912
+jersey shore,12900,2015,mazda,3,excellent,85000,clean,automatic,hatchback,blue,nj,40.1217,-74.0611
+north jersey,3850,2008,mazda,3,good,132400,clean,automatic,sedan,silver,nj,41.0495,-74.0384
+north jersey,15990,2013,mazda,mazda3 i touring hatchback,good,26490,clean,other,hatchback,red,nj,40.44,-74.82
+north jersey,10500,2012,mazda,mazda3,,43481,clean,automatic,sedan,black,nj,40.803433,-74.464996
+north jersey,12542,2015,mazda,mazda3 5dr hb man s touring,,89462,clean,automatic,sedan,custom,nj,40.821805,-74.061962
+north jersey,7000,2013,mazda,3,excellent,115000,clean,automatic,hatchback,red,nj,41.0915,-74.375
+north jersey,3995,2012,mazda,mazda3,good,164211,clean,automatic,sedan,grey,nj,39.937155,-75.088194
+north jersey,1850,2004,mazda,3 hatchback 2.5,fair,181150,clean,automatic,hatchback,blue,nj,40.9031,-74.0955
+north jersey,4995,2007,mazda,mazda3 i touring,excellent,90000,clean,automatic,sedan,black,nj,40.8856,-74.0296
+north jersey,3300,2007,mazda,3,good,188000,clean,automatic,sedan,grey,nj,40.7664,-74.1695
+north jersey,2000,2010,mazda,3,good,263850,clean,automatic,sedan,black,nj,41.0928,-74.2659
+north jersey,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,nj,40.44,-74.82
+north jersey,4200,2007,mazda,mazda3,,162165,clean,automatic,sedan,grey,nj,40.18157,-74.663384
+north jersey,5900,2010,mazda,mazda3,,124010,clean,automatic,sedan,black,nj,40.40825,-74.372882
+north jersey,6995,2010,mazda,mazda3 s grand,excellent,116192,,automatic,sedan,,nj,40.70113,-74.092715
+north jersey,4800,2006,mazda,mazda3,,117643,clean,automatic,wagon,black,nj,40.40825,-74.372882
+south jersey,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,nj,39.46,-74.99
+south jersey,4500,2011,mazda,3,,130000,clean,manual,,,nj,39.808864,-75.054344
+south jersey,3995,2012,mazda,mazda3,good,164211,clean,automatic,sedan,grey,nj,39.937155,-75.088194
+south jersey,8499,2012,mazda,3i touring,excellent,111484,clean,automatic,sedan,white,nj,39.755864,-75.110897
+south jersey,3300,2010,mazda,mazda3,,229115,clean,automatic,sedan,white,nj,40.18157,-74.663384
+south jersey,3200,2008,mazda,mazda3,good,180649,clean,automatic,sedan,black,nj,40.0037,-75.0257
+south jersey,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,nj,39.46,-74.99
+south jersey,5900,2010,mazda,mazda3,,124010,clean,automatic,sedan,black,nj,40.40825,-74.372882
+south jersey,7600,2014,mazda,3 skyactiv,excellent,107000,clean,automatic,sedan,grey,nj,39.7994,-75.5317
+south jersey,16995,2018,mazda,mazda3 4-door,,30150,clean,manual,,,nj,40.2043,-74.1779
+south jersey,4800,2006,mazda,mazda3,,117643,clean,automatic,wagon,black,nj,40.40825,-74.372882
+south jersey,9899,2014,mazda,mazda3,,106816,clean,automatic,hatchback,red,nj,39.938023,-74.971461
+south jersey,4200,2007,mazda,mazda3,,162165,clean,automatic,sedan,grey,nj,40.18157,-74.663384
+south jersey,6000,2010,mazda,3,excellent,88250,clean,automatic,sedan,blue,nj,39.8911,-75.117
+south jersey,4500,2010,mazda,3,,179000,clean,automatic,,,nj,39.8605,-75.1323
+south jersey,3995,2012,mazda,mazda3,good,164211,clean,automatic,sedan,grey,nj,39.937155,-75.088194
+south jersey,6295,2010,mazda,mazda3,good,96486,clean,automatic,sedan,custom,nj,39.937155,-75.088194
+south jersey,4300,2012,mazda,3i touring,excellent,153200,clean,automatic,sedan,black,nj,39.9597,-74.5655
+south jersey,4500,2010,mazda,3,,167000,clean,manual,,black,nj,39.3673,-75.0293
+south jersey,15590,2015,mazda,mazda3 i sv sedan 4d,good,51321,clean,other,sedan,brown,nj,39.46,-74.99
+south jersey,5000,2006,mazda,mazda3,,71226,clean,automatic,sedan,blue,nj,40.40825,-74.372882
+albuquerque,13550,2012,mazda,mazda3,excellent,97414,clean,manual,,black,nm,35.087703,-106.579999
+albuquerque,5400,2011,mazda,3,excellent,90552,clean,automatic,sedan,black,nm,35.1104,-106.5781
+albuquerque,3600,2012,mazda,3,good,144450,salvage,automatic,sedan,green,nm,35.0745,-106.526
+albuquerque,10950,2013,mazda,mazda3,good,63000,clean,automatic,hatchback,grey,nm,35.090122,-106.642077
+albuquerque,0,2018,mazda,mazda3 grand touring,,21180,clean,automatic,sedan,white,nm,35.1104,-106.5781
+albuquerque,15990,2014,mazda,mazda3 i touring hatchback,good,28647,clean,other,hatchback,,nm,35.11,-106.62
+albuquerque,5900,2009,mazda,3,like new,114000,salvage,automatic,hatchback,red,nm,35.0726,-106.5749
+albuquerque,1,2013,mazda,mazda3,,135225,clean,automatic,,,nm,35.1347,-106.6427
+albuquerque,1,2013,mazda,mazda3,,135225,clean,automatic,,,nm,35.1347,-106.6427
+albuquerque,0,2006,mazda,3 s touring,,54915,clean,manual,,black,nm,35.1347,-106.6427
+albuquerque,1,2013,mazda,mazda3,,135225,clean,automatic,,,nm,35.1347,-106.6427
+albuquerque,14500,2016,mazda,3,excellent,72000,clean,automatic,sedan,white,nm,35.1868,-106.6652
+albuquerque,1,2013,mazda,mazda3,,135225,clean,automatic,,,nm,35.1347,-106.6427
+albuquerque,13550,2012,mazda,mazda3,excellent,97414,clean,manual,,black,nm,35.087703,-106.579999
+albuquerque,16990,2016,mazda,mazda3 i sport sedan 4d,good,25251,clean,other,sedan,white,nm,35.11,-106.62
+albuquerque,1,2013,mazda,mazda3,,135225,clean,automatic,,,nm,35.1347,-106.6427
+albuquerque,4800,2006,mazda,3,good,125000,clean,automatic,hatchback,silver,nm,35.058537,-106.877873
+farmington,7000,2014,mazda,3,good,88572,rebuilt,automatic,,,nm,36.715847,-108.197865
+las cruces,3800,2010,mazda,3,good,107427,clean,automatic,sedan,grey,nm,32.2901,-106.7539
+santa fe / taos,3500,2007,mazda,3,good,185675,clean,automatic,sedan,white,nm,35.687826,-105.948029
+albany,6800,2010,mazda,3,like new,56100,clean,manual,sedan,blue,ny,42.8499,-73.7851
+albany,7995,2010,mazda,mazda3,,100533,clean,automatic,hatchback,red,ny,42.75026,-73.86952
+albany,6995,2011,mazda,mazda3,,132000,clean,automatic,sedan,,ny,42.75026,-73.86952
+albany,4950,2010,mazda,3,,146000,clean,automatic,,,ny,42.8499,-73.7851
+albany,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ny,42.66,-73.79
+albany,6200,2010,mazda,3,excellent,71700,lien,automatic,,white,ny,43.1411,-74.2444
+binghamton,10999,2016,mazda,3,excellent,116847,clean,manual,hatchback,white,ny,40.8626,-75.8239
+binghamton,5395,2012,mazda,3,good,154656,clean,manual,sedan,white,ny,42.129842,-76.065839
+binghamton,7000,2013,mazda,3,excellent,119000,clean,automatic,,black,ny,42.3384,-75.9522
+buffalo,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,ny,42.88,-78.85
+buffalo,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ny,42.88,-78.85
+buffalo,15733,2017,mazda,mazda3,,33533,clean,automatic,sedan,white,ny,42.787426,-78.7621
+buffalo,3000,2010,mazda,3,good,105872,salvage,manual,sedan,black,ny,42.915588,-78.884526
+buffalo,15590,2015,mazda,mazda3 i sv sedan 4d,good,51321,clean,other,sedan,brown,ny,42.88,-78.85
+elmira-corning,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+elmira-corning,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+elmira-corning,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+finger lakes,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+finger lakes,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+hudson valley,7950,2012,mazda,mazda3,,99779,clean,automatic,sedan,black,ny,41.552532,-72.999092
+hudson valley,3200,2010,mazda,3,excellent,192345,clean,manual,sedan,grey,ny,41.5034,-74.0104
+hudson valley,3600,2006,mazda,3,good,131200,clean,automatic,hatchback,white,ny,41.613004,-74.206123
+hudson valley,3600,2006,mazda,3,good,131200,clean,automatic,hatchback,white,ny,41.613004,-74.206123
+hudson valley,2750,2008,mazda,3,good,156826,clean,automatic,sedan,silver,ny,41.449342,-74.421566
+hudson valley,17990,2017,mazda,mazda3 touring 2.5,good,44997,clean,other,hatchback,,ny,41.93,-73.99
+hudson valley,14950,2017,mazda,mazda3,,12684,clean,automatic,sedan,silver,ny,41.552532,-72.999092
+hudson valley,4500,2009,mazda,3,excellent,97000,clean,automatic,sedan,blue,ny,41.5477,-74.095
+hudson valley,5400,2009,mazda,3i touring,excellent,115000,clean,automatic,sedan,red,ny,41.3946,-74.3302
+hudson valley,3500,2007,mazda,3,good,154000,clean,manual,sedan,black,ny,41.7035,-73.9117
+ithaca,7000,2013,mazda,3,excellent,119000,clean,automatic,,black,ny,42.3384,-75.9522
+ithaca,5700,2011,mazda,3 sport,,118000,clean,manual,,white,ny,42.4406,-76.4966
+long island,5400,2009,mazda,3,excellent,143000,clean,manual,sedan,black,ny,40.7609,-72.9871
+long island,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,ny,40.8,-73.12
+long island,10800,2015,mazda,mazda3 i sport,new,64000,clean,automatic,,blue,ny,40.6548,-73.6097
+long island,4800,2010,mazda,3 s,,152,clean,automatic,,,ny,40.9018,-72.8881
+long island,3900,2010,mazda,3,good,130000,clean,automatic,sedan,grey,ny,40.9567,-72.9742
+long island,4200,2009,mazda,mazda3,excellent,144000,clean,automatic,sedan,silver,ny,40.768981,-73.509175
+long island,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ny,40.8,-73.12
+long island,0,2007,mazda,mazda3,excellent,87001,clean,automatic,sedan,black,ny,40.806563,-72.836362
+long island,3600,2010,mazda,3 s 5 door grand touring,good,142186,clean,automatic,hatchback,grey,ny,40.798825,-73.028589
+new york city,7950,2012,mazda,mazda3,,99779,clean,automatic,sedan,black,ny,41.552532,-72.999092
+new york city,10800,2015,mazda,3 sport hatchback,,64000,clean,automatic,,,ny,40.6548,-73.6097
+new york city,1100,2007,mazda,3,,135000,clean,automatic,,,ny,40.6548,-73.6097
+new york city,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,ny,40.64,-73.94
+new york city,7900,2012,mazda,3 touring,excellent,86000,clean,automatic,,white,ny,40.6039,-74.1472
+new york city,12999,2015,mazda,mazda3 i sport hatchback,excellent,42000,clean,automatic,hatchback,silver,ny,40.694,-73.9903
+new york city,5500,2012,mazda,3,good,55349,clean,automatic,sedan,,ny,40.729,-74.073
+new york city,15990,2013,mazda,mazda3 i touring hatchback,good,26490,clean,other,hatchback,red,ny,41.1,-73.79
+new york city,15590,2014,mazda,mazda3 i grand touring,good,76880,clean,manual,hatchback,,ny,40.72,-74.17
+rochester,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+rochester,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,ny,43.16,-77.61
+rochester,7000,2013,mazda,3,excellent,119000,clean,automatic,,black,ny,42.3384,-75.9522
+rochester,6495,2012,mazda,3 i touring,excellent,98106,clean,automatic,,blue,ny,43.18097,-77.773338
+rochester,18995,2019,mazda,mazda3 select,excellent,1250,clean,automatic,sedan,red,ny,43.218365,-77.758032
+rochester,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+rochester,4995,2010,mazda,3,good,116000,clean,manual,,silver,ny,43.164561,-77.623207
+rochester,7000,2013,mazda,3,excellent,119000,clean,automatic,,black,ny,42.3384,-75.9522
+rochester,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ny,43.16,-77.61
+rochester,6995,2011,mazda,mazda3 i sport,,107000,clean,automatic,,,ny,43.222863,-77.84208
+rochester,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+rochester,6950,2012,mazda,3,like new,104648,clean,automatic,sedan,grey,ny,43.1895,-77.8043
+rochester,5995,2012,mazda,3,good,104722,clean,manual,sedan,black,ny,42.894768,-77.434902
+rochester,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+rochester,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+rochester,13995,2017,mazda,mazda3 touring,like new,47842,clean,automatic,sedan,,ny,42.958,-77.3083
+rochester,3700,2007,mazda,3,good,94000,clean,manual,,,ny,43.0834,-77.6344
+rochester,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+rochester,15495,2018,mazda,mazda3 sport,excellent,22500,clean,automatic,sedan,blue,ny,43.218365,-77.758032
+rochester,12900,2015,mazda,mazda3,,88830,clean,automatic,sedan,,ny,43.120453,-77.499203
+rochester,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+rochester,15590,2015,mazda,mazda3 i sv sedan 4d,good,51321,clean,other,sedan,brown,ny,43.16,-77.61
+rochester,0,2015,mazda,3,,71676,clean,automatic,,,ny,43.20047,-77.571994
+syracuse,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,ny,43.04,-76.14
+syracuse,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ny,43.04,-76.14
+syracuse,3200,2012,mazda,3 i-touring,fair,183000,clean,manual,,black,ny,43.154285,-76.277999
+syracuse,5300,2008,mazda,3,good,93682,clean,automatic,sedan,grey,ny,43.0552,-75.8768
+utica-rome-oneida,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ny,43.1,-75.23
+new hampshire,8995,2016,mazda,mazda3,excellent,102000,clean,manual,sedan,blue,nh,43.188723,-71.504929
+new hampshire,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,nh,42.99,-71.45
+new hampshire,6995,2010,mazda,mazda3,excellent,123554,clean,automatic,sedan,black,nh,42.833518,-71.107205
+new hampshire,5200,2010,mazda,3,excellent,131000,clean,manual,,,nh,42.8656,-71.3772
+new hampshire,9250,2011,mazda,mazda3,,64830,clean,automatic,sedan,silver,nh,42.68101,-71.42583
+new hampshire,6495,2010,mazda,3,excellent,98040,clean,automatic,sedan,black,nh,42.700865,-71.314208
+new hampshire,5950,2013,mazda,3 i touring 2.0l,excellent,150000,clean,automatic,hatchback,blue,nh,42.977356,-71.454804
+new hampshire,9200,2014,mazda,mazda3 s grand touring,excellent,126500,clean,automatic,hatchback,brown,nh,43.3217,-72.0118
+new hampshire,8995,2016,mazda,mazda3,excellent,102000,clean,manual,sedan,blue,nh,43.188723,-71.504929
+new hampshire,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,nh,42.99,-71.45
+new hampshire,8100,2014,mazda,mazda3 i sport,excellent,103370,clean,automatic,sedan,white,nh,42.857435,-71.281445
+new hampshire,8995,2012,mazda,3,excellent,91311,clean,automatic,hatchback,silver,nh,43.0617,-71.4444
+new hampshire,8995,2016,mazda,mazda3,excellent,102000,clean,manual,sedan,blue,nh,43.188723,-71.504929
+akron / canton,2800,2008,mazda,3,good,166000,rebuilt,manual,hatchback,black,oh,40.8094,-81.9483
+akron / canton,10991,2014,mazda,mazda3,,77591,clean,automatic,sedan,custom,oh,40.903454,-81.433282
+akron / canton,6900,2013,mazda,3,excellent,121381,clean,automatic,sedan,,oh,40.796036,-81.43153
+akron / canton,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,oh,41.08,-81.52
+akron / canton,6900,2013,mazda,3,excellent,121381,clean,automatic,sedan,,oh,40.796036,-81.43153
+akron / canton,1800,2005,mazda,3,,170000,clean,automatic,,,oh,41.0692,-81.5803
+akron / canton,6900,2013,mazda,3,excellent,121381,clean,automatic,sedan,,oh,40.796036,-81.43153
+akron / canton,7700,2011,mazda,3 gt grand touring,excellent,132728,clean,automatic,hatchback,blue,oh,40.923517,-81.134806
+akron / canton,6900,2013,mazda,3,excellent,121381,clean,automatic,sedan,,oh,40.796036,-81.43153
+ashtabula,8995,2014,mazda,mazda3,,203807,clean,automatic,sedan,,oh,41.8018,-81.048149
+ashtabula,8995,2014,mazda,mazda3,,203807,clean,automatic,sedan,,oh,41.8018,-81.048149
+chillicothe,6495,2006,mazda,3,,93291,clean,manual,,,oh,39.098358,-83.348733
+chillicothe,3495,2006,mazda,3,,163872,clean,automatic,,,oh,39.098391,-83.348197
+cincinnati,4488,2010,mazda,mazda3,good,189313,clean,automatic,sedan,grey,oh,38.941178,-84.394837
+cincinnati,0,2018,mazda,mazda3 5-door,excellent,87921,clean,manual,hatchback,black,oh,39.1301,-84.60104
+cincinnati,6495,2006,mazda,3,,93291,clean,manual,,,oh,39.098291,-83.348218
+cincinnati,3495,2006,mazda,3,,163872,clean,automatic,,,oh,39.098141,-83.348304
+cincinnati,18590,2014,mazda,mazda3 s grand touring,good,42371,clean,other,sedan,silver,oh,39.09,-84.51
+cincinnati,3999,2007,mazda,mazda3,,102129,clean,manual,sedan,silver,oh,39.03969,-84.233879
+cincinnati,9988,2013,mazda,mazda3,good,77096,clean,automatic,sedan,red,oh,39.389439,-84.548248
+cincinnati,12495,2015,mazda,mazda3,,69482,clean,automatic,sedan,silver,oh,39.355403,-84.396202
+cincinnati,3999,2007,mazda,3,good,114000,clean,manual,,,oh,38.9406,-84.3943
+cincinnati,0,2018,mazda,mazda3 5-door,excellent,18717,clean,automatic,hatchback,white,oh,39.1301,-84.60104
+cincinnati,0,2018,mazda,mazda3 5-door,excellent,25784,clean,automatic,hatchback,brown,oh,39.1301,-84.60104
+cincinnati,0,2019,mazda,mazda3 hatchback,excellent,,clean,automatic,hatchback,,oh,39.1301,-84.60104
+cincinnati,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,oh,39.09,-84.51
+cincinnati,2800,2008,mazda,3,excellent,167000,clean,manual,sedan,black,oh,39.625897,-84.260394
+cincinnati,9990,2012,mazda,3,like new,85250,clean,automatic,sedan,silver,oh,39.1848,-84.3448
+cincinnati,0,2019,mazda,mazda3 hatchback,excellent,75,clean,automatic,hatchback,black,oh,39.1301,-84.60104
+cincinnati,0,2018,mazda,mazda3 4-door,excellent,29930,clean,automatic,sedan,,oh,39.1301,-84.60104
+cincinnati,9800,2014,mazda,3,excellent,92707,clean,manual,coupe,silver,oh,39.335011,-84.229667
+cincinnati,9995,2016,mazda,mazda3 i touring i4 fwd,,93869,clean,automatic,hatchback,grey,oh,39.0731,-84.325896
+cincinnati,5000,2010,mazda,3,excellent,154000,clean,automatic,,,oh,39.149,-84.4892
+cincinnati,9988,2013,mazda,mazda3,good,77096,clean,automatic,sedan,red,oh,39.389439,-84.548248
+cincinnati,3999,2007,mazda,mazda3,,102129,clean,manual,sedan,silver,oh,39.03969,-84.233879
+cincinnati,3500,2007,mazda,3,fair,155000,clean,manual,sedan,silver,oh,39.3181,-84.5224
+cleveland,6500,2012,mazda,3,good,66461,rebuilt,automatic,sedan,white,oh,41.3132,-81.8285
+cleveland,8995,2014,mazda,mazda3,,203807,clean,automatic,sedan,,oh,41.8018,-81.048149
+cleveland,5800,2011,mazda,3,good,110000,clean,automatic,sedan,grey,oh,41.3853,-81.7044
+cleveland,3450,2009,mazda,3,,146000,clean,automatic,,,oh,41.4467,-82.0204
+cleveland,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,oh,41.47,-81.67
+cleveland,15590,2015,mazda,mazda3 i sv sedan 4d,good,51321,clean,other,sedan,brown,oh,41.47,-81.67
+columbus,3000,2007,mazda,3,good,156200,clean,automatic,,,oh,39.9046,-82.9703
+columbus,3000,2007,mazda,3,good,156200,clean,automatic,,,oh,39.9046,-82.9703
+columbus,3250,2007,mazda,3,good,156200,clean,automatic,,,oh,39.9046,-82.9703
+columbus,7999,2012,mazda,3,good,140000,clean,automatic,hatchback,silver,oh,40.05834,-83.034599
+columbus,2595,2006,mazda,mazda3 i,,164000,clean,automatic,,,oh,39.9569,-82.9644
+columbus,4900,2008,mazda,3,good,159000,clean,automatic,coupe,black,oh,40.2865,-82.68
+columbus,3295,2010,mazda,mazda3 i sport,excellent,177078,clean,automatic,sedan,blue,oh,40.0226,-83.0776
+columbus,5000,2010,mazda,mazda3,good,195682,clean,automatic,,red,oh,40.179,-83.0964
+dayton / springfield,4900,2008,mazda,3,excellent,187000,clean,automatic,,,oh,39.93,-84.0217
+dayton / springfield,0,2018,mazda,mazda3 5-door,excellent,18717,clean,automatic,hatchback,white,oh,39.1301,-84.60104
+dayton / springfield,0,2018,mazda,mazda3 5-door,excellent,25784,clean,automatic,hatchback,brown,oh,39.1301,-84.60104
+dayton / springfield,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,oh,39.77,-84.19
+dayton / springfield,4995,2010,mazda,3,excellent,226700,clean,automatic,hatchback,red,oh,39.702,-84.225
+dayton / springfield,0,2019,mazda,mazda3 hatchback,excellent,75,clean,automatic,hatchback,black,oh,39.1301,-84.60104
+dayton / springfield,0,2019,mazda,mazda3 hatchback,excellent,22023,clean,automatic,hatchback,,oh,39.1301,-84.60104
+dayton / springfield,4400,2011,mazda,mazda3,good,162700,clean,automatic,sedan,black,oh,39.435294,-83.82955
+dayton / springfield,0,2010,mazda,mazda3,excellent,110061,clean,automatic,sedan,silver,oh,39.1301,-84.60104
+parkersburg-marietta,4995,2008,mazda,3,excellent,96123,clean,automatic,sedan,,oh,39.2644,-81.5354
+toledo,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,oh,41.66,-83.58
+toledo,5000,2010,mazda,mazda3,good,138000,clean,automatic,sedan,grey,oh,41.6492,-83.6706
+toledo,3300,2014,mazda,mazda3,,127689,clean,automatic,sedan,blue,oh,41.6418,-83.4714
+toledo,3200,2015,mazda,mazda3,,84443,clean,automatic,sedan,red,oh,41.6418,-83.4714
+youngstown,5995,2013,mazda,mazda3,,88165,salvage,automatic,sedan,,oh,40.810152,-80.425219
+youngstown,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,oh,41.09,-80.64
+oklahoma city,4988,2010,mazda,3,,122000,clean,automatic,,,ok,35.1192,-97.6401
+oklahoma city,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,ok,35.46,-97.51
+oklahoma city,6900,2013,mazda,mazda3,,106684,clean,automatic,sedan,red,ok,35.435501,-97.518547
+oklahoma city,7995,2012,mazda,mazda3 touring hatchback,excellent,76000,clean,automatic,hatchback,,ok,35.364993,-97.502096
+oklahoma city,12995,2017,mazda,mazda3,excellent,63000,clean,automatic,sedan,white,ok,35.364993,-97.502096
+oklahoma city,13988,2017,mazda,mazda3,like new,69488,clean,automatic,,,ok,34.1566,-97.1792
+oklahoma city,6900,2013,mazda,mazda3,,106684,clean,automatic,sedan,red,ok,35.435501,-97.518547
+oklahoma city,13988,2017,mazda,3,like new,69488,clean,automatic,,,ok,34.1566,-97.1792
+oklahoma city,3500,2007,mazda,3,good,240000,clean,automatic,sedan,white,ok,35.5835,-97.5638
+oklahoma city,6900,2013,mazda,mazda3,,106684,clean,automatic,sedan,red,ok,35.43548,-97.52113
+oklahoma city,12990,2013,mazda,mazda3 i touring hatchback,good,64046,clean,other,hatchback,,ok,35.46,-97.51
+oklahoma city,16590,2016,mazda,mazda3 i touring hatchback,good,31630,clean,automatic,hatchback,,ok,35.46,-97.51
+oklahoma city,6900,2013,mazda,mazda3,,106684,clean,automatic,sedan,red,ok,35.435501,-97.518547
+oklahoma city,7995,2012,mazda,mazda3 touring hatchback,excellent,76000,clean,automatic,hatchback,,ok,35.364993,-97.502096
+oklahoma city,12995,2017,mazda,mazda3,excellent,63000,clean,automatic,sedan,white,ok,35.364993,-97.502096
+tulsa,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,ok,36.12,-95.91
+tulsa,14988,2016,mazda,mazda3 i sport,,25719,clean,automatic,hatchback,grey,ok,36.140417,-95.887075
+tulsa,0,2019,mazda,mazda3,excellent,54123,clean,automatic,sedan,blue,ok,36.72137,-95.93518
+tulsa,17990,2018,mazda,mazda3 touring sedan 4d,good,28303,clean,other,sedan,silver,ok,36.12,-95.91
+tulsa,14990,2012,mazda,mazda3 i touring sedan 4d,good,39356,clean,automatic,sedan,silver,ok,36.12,-95.91
+tulsa,6000,2013,mazda,3,excellent,130000,salvage,automatic,sedan,grey,ok,36.012047,-96.098839
+bend,0,2020,mazda,mazda3 hatchback,,7629,clean,automatic,,white,or,44.055093,-121.268705
+bend,18990,2014,mazda,mazda3,good,42838,clean,automatic,hatchback,black,or,44.257021,-121.180231
+bend,5995,2008,mazda,mazda3,,160852,clean,automatic,sedan,black,or,44.083056,-123.153025
+bend,12485,2013,mazda,3 i touring,like new,59250,clean,automatic,hatchback,grey,or,44.087807,-121.310349
+bend,10995,2012,mazda,mazda3,,91595,clean,automatic,sedan,,or,45.61685,-122.693008
+bend,0,2020,mazda,mazda3 hatchback,,5333,clean,automatic,,black,or,44.055093,-121.268705
+bend,10995,2012,mazda,mazda3 i touring sedan / 4-cyl / automatic / 91000 miles / 1-owner,,91595,clean,automatic,sedan,grey,or,45.615827,-122.694116
+bend,12485,2013,mazda,3 i touring,like new,59250,clean,automatic,hatchback,grey,or,44.087807,-121.310349
+bend,146,2013,mazda,mazda3,,57000,clean,automatic,hatchback,,or,45.375325,-122.601695
+bend,10990,2010,mazda,mazda3,,106439,clean,manual,sedan,grey,or,44.083056,-123.153025
+corvallis/albany,17965,2018,mazda,3,excellent,26500,clean,automatic,coupe,grey,or,44.5476,-123.3073
+corvallis/albany,0,2018,mazda,mazda3 4-door,,33448,clean,automatic,sedan,,or,44.572566,-123.258594
+eugene,8500,2012,mazda,mazda3,,0,,automatic,sedan,black,or,44.097248,-123.120124
+eugene,10990,2010,mazda,mazda3,,106439,clean,manual,sedan,grey,or,44.083056,-123.153025
+eugene,7800,2013,mazda,3,excellent,123000,clean,manual,hatchback,silver,or,44.04788,-123.105386
+eugene,6995,2010,mazda,3,good,130855,clean,automatic,sedan,grey,or,44.04814,-123.123142
+eugene,10990,2010,mazda,mazda3,,106439,clean,manual,sedan,grey,or,44.083056,-123.153025
+eugene,5995,2008,mazda,mazda3,,160852,clean,automatic,sedan,black,or,44.083056,-123.153025
+eugene,241,2017,mazda,mazda3 4-door touring,,58361,clean,automatic,,white,or,43.7839,-123.0529
+eugene,5995,2008,mazda,mazda3,,160960,clean,automatic,other,silver,or,44.05294,-123.11188
+eugene,16995,2018,mazda,3 sport,like new,17752,clean,automatic,sedan,white,or,44.04814,-123.123142
+eugene,15995,2016,mazda,mazda3i touring,like new,23015,clean,automatic,hatchback,white,or,44.04814,-123.123142
+eugene,8500,2012,mazda,3,excellent,102000,clean,automatic,sedan,black,or,44.1005,-123.1334
+eugene,6500,2011,mazda,3,good,179000,clean,automatic,sedan,white,or,44.097806,-123.120099
+eugene,7990,2009,mazda,mazda3 4dr sdn auto i sport,,108857,clean,automatic,sedan,grey,or,44.076513,-123.150156
+eugene,10990,2010,mazda,mazda3,,106439,clean,manual,sedan,grey,or,44.083056,-123.153025
+eugene,7995,2008,mazda,mazda3 s touring,good,151368,clean,manual,sedan,black,or,44.053446,-123.118752
+eugene,296,2018,mazda,mazda3 4-door,,26137,clean,automatic,sedan,,or,44.0665,-123.080966
+eugene,7990,2009,mazda,mazda3 4dr sdn auto i sport,,108857,clean,automatic,sedan,grey,or,44.076513,-123.150156
+eugene,5995,2008,mazda,mazda3,,145128,clean,automatic,sedan,,or,44.05294,-123.11188
+eugene,6500,2011,mazda,3,good,179000,clean,automatic,sedan,white,or,44.097806,-123.120099
+eugene,8500,2012,mazda,3,excellent,102000,clean,automatic,sedan,black,or,44.1005,-123.1334
+eugene,9995,2012,mazda,3i touring,excellent,103525,clean,automatic,hatchback,grey,or,44.04814,-123.123142
+eugene,4995,2005,mazda,3,good,175006,clean,manual,hatchback,grey,or,44.04814,-123.123142
+eugene,5995,2008,mazda,mazda3,,160960,clean,automatic,other,silver,or,44.05294,-123.11188
+medford-ashland,3500,2005,mazda,3,good,146673,clean,automatic,wagon,grey,or,42.3216,-122.8825
+medford-ashland,13624,2014,mazda,mazda3,,62467,,,,,or,42.329925,-122.875811
+oregon coast,5995,2008,mazda,mazda3,,160852,clean,automatic,sedan,black,or,44.083056,-123.153025
+oregon coast,12000,2015,mazda,3,excellent,95000,clean,manual,sedan,black,or,44.637394,-124.035645
+oregon coast,3500,2009,mazda,3,good,190000,clean,automatic,,,or,43.391129,-124.235458
+oregon coast,10990,2010,mazda,mazda3,,106439,clean,manual,sedan,grey,or,44.083056,-123.153025
+portland,1,2005,mazda,3,good,206000,clean,manual,,,or,45.3099,-122.9685
+portland,3995,2007,mazda,mazda3,excellent,201862,clean,automatic,sedan,blue,or,45.461782,-122.579677
+portland,9000,2013,mazda,mazda3 i sv,,72399,clean,automatic,sedan,black,or,45.530538,-122.897609
+portland,224,2016,mazda,mazda3 i touring,,63062,clean,automatic,,,or,45.426823,-122.633445
+portland,125,2013,mazda,mazda3 i touring,,117191,clean,manual,sedan,,or,45.491636,-122.810744
+portland,13488,2014,mazda,3,,80000,clean,automatic,sedan,white,or,45.6058,-122.4142
+portland,7750,2009,mazda,mazda3 i sport,good,114608,clean,manual,sedan,red,or,37.63981,-122.415728
+portland,7995,2011,mazda,3,,126923,clean,automatic,sedan,grey,or,45.478152,-122.579034
+portland,0,2010,mazda,mazda3 s sport sedan 4d,excellent,175906,clean,automatic,sedan,grey,or,45.690085,-122.658952
+portland,244,2018,mazda,mazda3,,32139,clean,automatic,hatchback,,or,45.516878,-122.537451
+portland,281,2019,mazda,mazda3 preferred,,27352,clean,automatic,hatchback,,or,45.516878,-122.537451
+roseburg,5500,2012,mazda,3,excellent,162000,clean,automatic,,blue,or,43.203377,-123.350296
+salem,0,2014,mazda,mazda3 i grand touring,,,clean,manual,hatchback,,or,44.949603,-122.995477
+salem,12577,2015,mazda,mazda3,,66900,clean,automatic,sedan,red,or,44.9225,-123.32
+salem,0,2012,mazda,mazda3 i touring,,,clean,automatic,sedan,,or,44.949603,-122.995477
+salem,0,2015,mazda,mazda3,,105398,clean,automatic,sedan,,or,44.949603,-122.995477
+salem,0,2021,mazda,mazda3 sedan,,4025,clean,automatic,sedan,,or,44.949603,-122.995477
+salem,6900,2010,mazda,3,,141000,clean,automatic,,,or,45.197496,-123.20678
+salem,9995,2009,mazda,mazda3,like new,73837,clean,automatic,hatchback,,or,45.524894,-122.656061
+salem,274,2018,mazda,mazda3 5-door,,15747,clean,automatic,sedan,,or,44.97143,-123.018548
+salem,0,2020,mazda,mazda3 hatchback,,8147,clean,automatic,hatchback,,or,44.949603,-122.995477
+salem,0,2017,mazda,mazda3 4-door grand touri,,,clean,automatic,sedan,,or,44.949603,-122.995477
+salem,12577,2015,mazda,mazda3,,66900,clean,automatic,sedan,red,or,44.9225,-123.32
+salem,0,2016,mazda,mazda3,,53418,clean,automatic,sedan,,or,44.949603,-122.995477
+salem,0,2014,mazda,mazda3,,93727,clean,manual,hatchback,,or,44.949603,-122.995477
+salem,5995,2005,mazda,mazda3 sport gs,,184931,clean,automatic,wagon,black,or,44.925908,-122.982753
+salem,6995,2008,mazda,mazda3 s grand touring,,153577,clean,automatic,sedan,black,or,44.925908,-122.982753
+salem,8200,2011,mazda,3,,130840,clean,automatic,,,or,44.924417,-122.980957
+salem,5500,2004,mazda,3,good,144170,clean,automatic,sedan,white,or,45.02342,-123.015162
+salem,5995,2005,mazda,mazda3 sport gs,,184931,clean,automatic,wagon,black,or,44.925908,-122.982753
+salem,0,2012,mazda,mazda3,,129117,clean,automatic,sedan,,or,44.949603,-122.995477
+salem,6995,2008,mazda,mazda3 s grand touring,,153577,clean,automatic,sedan,black,or,44.925908,-122.982753
+altoona-johnstown,5500,2008,mazda,3,,165000,clean,automatic,,,pa,40.755085,-78.534439
+altoona-johnstown,5995,2013,mazda,mazda3,,88165,salvage,automatic,sedan,,pa,40.810152,-80.425219
+erie,8995,2014,mazda,mazda3,,203807,clean,automatic,sedan,,pa,41.8018,-81.048149
+erie,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,pa,42.12,-80.08
+erie,8995,2014,mazda,mazda3,,203807,clean,automatic,sedan,,pa,41.8018,-81.048149
+erie,5995,2013,mazda,mazda3,,88165,salvage,automatic,sedan,,pa,40.810152,-80.425219
+erie,8995,2014,mazda,mazda3,,203807,clean,automatic,sedan,,pa,41.8018,-81.048149
+harrisburg,8450,2012,mazda,mazda3 i sport,good,88364,clean,automatic,sedan,silver,pa,40.198767,-77.151365
+harrisburg,5495,2012,mazda,mazda3,,157000,clean,automatic,,,pa,40.233933,-77.121608
+harrisburg,8500,2012,mazda,3 s,excellent,71000,clean,automatic,sedan,grey,pa,40.476,-76.894
+harrisburg,5500,2008,mazda,3,,165000,clean,automatic,,,pa,40.755085,-78.534439
+harrisburg,13900,2015,mazda,mazda3 i touring hatchback,excellent,79596,clean,automatic,hatchback,black,pa,40.353611,-76.374995
+harrisburg,8500,2012,mazda,3 s,excellent,71000,clean,automatic,sedan,grey,pa,40.476,-76.894
+harrisburg,8450,2012,mazda,mazda3 i sport,good,88364,clean,automatic,sedan,silver,pa,40.198767,-77.151365
+harrisburg,8450,2012,mazda,mazda3 i sport,good,88364,clean,automatic,sedan,silver,pa,40.198767,-77.151365
+harrisburg,5520,2010,mazda,mazda3,good,142648,clean,automatic,,white,pa,40.206848,-76.785802
+harrisburg,5500,2008,mazda,3,,165000,clean,automatic,,,pa,40.755085,-78.534439
+lancaster,7990,2012,mazda,mazda3,excellent,110598,clean,automatic,sedan,grey,pa,40.040974,-76.379804
+lancaster,7990,2012,mazda,mazda3,excellent,110598,clean,automatic,sedan,grey,pa,40.040974,-76.379804
+lancaster,7990,2012,mazda,mazda3,excellent,110598,clean,automatic,sedan,grey,pa,40.040974,-76.379804
+lancaster,7990,2012,mazda,mazda3,excellent,110598,clean,automatic,sedan,grey,pa,40.040974,-76.379804
+lancaster,7990,2012,mazda,mazda3,excellent,110598,clean,automatic,sedan,grey,pa,40.040974,-76.379804
+lancaster,7800,2015,mazda,mazda3,,,,,,,pa,41.26154,-78.70452
+lehigh valley,10999,2016,mazda,3,excellent,116847,clean,manual,hatchback,white,pa,40.868263,-75.792704
+lehigh valley,5900,2010,mazda,mazda3 i sport 4-door,good,117000,clean,automatic,sedan,grey,pa,40.626575,-75.426593
+lehigh valley,5500,2011,mazda,mazda3 i sport 4-door,good,124200,clean,manual,sedan,green,pa,40.626494,-75.426571
+lehigh valley,4900,2009,mazda,mazda3 i sport 4-door,good,113000,clean,manual,sedan,black,pa,40.6366,-75.4405
+lehigh valley,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,pa,40.68,-75.22
+lehigh valley,8500,2012,mazda,mazda3 s touring,good,80000,clean,automatic,sedan,black,pa,40.5817,-75.3255
+lehigh valley,7000,2008,mazda,3,excellent,102000,clean,automatic,sedan,white,pa,40.6068,-75.4781
+lehigh valley,2800,2008,mazda,3 mazda3 manual,excellent,252759,clean,automatic,sedan,black,pa,40.6068,-75.4781
+lehigh valley,4200,2008,mazda,3 i sport,good,177000,clean,automatic,sedan,blue,pa,40.6998,-75.4874
+lehigh valley,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,pa,40.68,-75.22
+lehigh valley,5900,2010,mazda,mazda3 i touringsedan 5a,good,170735,,automatic,sedan,,pa,40.617325,-75.441437
+lehigh valley,5900,2010,mazda,mazda3,good,170000,clean,automatic,sedan,black,pa,40.617259,-75.441506
+lehigh valley,11300,2016,mazda,3i grand touring hatchback,like new,63000,rebuilt,automatic,,blue,pa,40.3113,-76.0345
+lehigh valley,4995,2010,mazda,3,,169000,clean,manual,,,pa,40.682166,-75.545003
+lehigh valley,5900,2010,mazda,mazda3 i touringsedan 5a,good,170735,,automatic,sedan,,pa,40.617325,-75.441437
+lehigh valley,15590,2015,mazda,mazda3 i sv sedan 4d,good,51321,clean,other,sedan,brown,pa,40.68,-75.22
+philadelphia,11500,2014,mazda,3,excellent,38200,clean,automatic,hatchback,red,pa,40.023,-75.259
+philadelphia,4500,2008,mazda,3 sport sedan 4d,excellent,140486,clean,automatic,sedan,grey,pa,39.9747,-75.3602
+philadelphia,10999,2016,mazda,3,excellent,116847,clean,manual,hatchback,white,pa,40.868263,-75.792704
+philadelphia,7600,2014,mazda,3 skyactiv,excellent,107000,clean,automatic,sedan,grey,pa,39.7994,-75.5317
+philadelphia,2800,2008,mazda,3 mazda3 manual,excellent,252759,clean,manual,sedan,black,pa,39.9489,-75.1661
+philadelphia,5500,2007,mazda,3,like new,79000,clean,automatic,sedan,black,pa,40.1109,-74.9378
+philadelphia,4450,2006,mazda,3,,140000,clean,automatic,,,pa,40.0634,-74.999
+philadelphia,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,pa,39.95,-75.16
+philadelphia,3300,2010,mazda,mazda3,,229115,clean,automatic,sedan,white,pa,40.18157,-74.663384
+philadelphia,5900,2010,mazda,mazda3,,124010,clean,automatic,sedan,black,pa,40.40825,-74.372882
+philadelphia,4800,2006,mazda,mazda3,,117643,clean,automatic,wagon,black,pa,40.40825,-74.372882
+philadelphia,4800,2006,mazda,mazda3,,117643,clean,automatic,wagon,black,pa,40.40825,-74.372882
+philadelphia,3995,2013,mazda,3,,97885,salvage,automatic,,,pa,40.6747,-74.2239
+philadelphia,7999,2012,mazda,3 6 speed sky active?,like new,92425,clean,manual,sedan,black,pa,40.1284,-75.0607
+pittsburgh,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,pa,40.43,-79.97
+pittsburgh,2300,2006,mazda,3,good,200000,clean,automatic,sedan,silver,pa,40.4308,-79.9205
+pittsburgh,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,pa,40.43,-79.97
+pittsburgh,5995,2013,mazda,mazda3,,88165,salvage,automatic,sedan,,pa,40.810152,-80.425219
+pittsburgh,6000,2010,mazda,3 2.5,,100888,rebuilt,manual,,,pa,40.474385,-79.816424
+pittsburgh,5995,2013,mazda,mazda3,,88165,salvage,automatic,sedan,,pa,40.810152,-80.425219
+pittsburgh,5995,2013,mazda,mazda3,,88165,salvage,automatic,sedan,,pa,40.810152,-80.425219
+pittsburgh,6495,2010,mazda,3,good,79643,clean,automatic,sedan,black,pa,40.3234,-80.1879
+poconos,10999,2016,mazda,3,excellent,116847,clean,manual,hatchback,white,pa,40.868263,-75.792704
+poconos,6900,2012,mazda,3,like new,128234,clean,automatic,sedan,white,pa,41.032972,-75.143875
+poconos,8490,2012,mazda,mazda3i,good,84657,clean,automatic,sedan,white,pa,40.8169,-75.3264
+poconos,8990,2012,mazda,mazda3 i touring,excellent,83817,clean,automatic,sedan,white,pa,40.8169,-75.3264
+reading,2800,2008,mazda,3 mazda3 manual,excellent,252759,clean,manual,sedan,black,pa,40.3466,-75.9351
+reading,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,pa,40.33,-75.92
+scranton / wilkes-barre,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,pa,41.4,-75.66
+scranton / wilkes-barre,10999,2016,mazda,3,excellent,116847,clean,manual,hatchback,white,pa,40.868263,-75.792704
+scranton / wilkes-barre,7000,2013,mazda,3,excellent,119000,clean,automatic,sedan,black,pa,42.3384,-75.9522
+scranton / wilkes-barre,7000,2013,mazda,3,excellent,119000,clean,automatic,sedan,black,pa,42.3384,-75.9522
+scranton / wilkes-barre,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,pa,41.4,-75.66
+scranton / wilkes-barre,12000,2016,mazda,3,like new,115780,clean,manual,sedan,red,pa,41.111903,-76.137314
+scranton / wilkes-barre,14750,2017,mazda,3,like new,58400,clean,automatic,sedan,black,pa,41.112162,-76.137314
+williamsport,6500,2011,mazda,mazda3 i touring,good,119000,clean,automatic,sedan,grey,pa,40.9218,-77.0505
+york,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,pa,39.96,-76.73
+york,0,2018,mazda,mazda3,,51857,clean,automatic,hatchback,blue,pa,38.823449,-76.947378
+york,7990,2012,mazda,mazda3,excellent,110598,clean,automatic,sedan,grey,pa,39.922612,-76.685361
+york,7990,2012,mazda,mazda3,excellent,110598,clean,automatic,sedan,grey,pa,39.922612,-76.685361
+rhode island,5200,2010,mazda,3,,121000,clean,automatic,,,ri,41.874794,-71.363408
+rhode island,5400,2012,mazda,3,like new,176000,clean,automatic,,grey,ri,41.888662,-71.37539
+rhode island,19990,2018,mazda,mazda3 touring hatchback,good,14063,clean,other,hatchback,blue,ri,41.82,-71.41
+rhode island,5999,2012,mazda,mazda3,,136552,clean,automatic,,,ri,41.705616,-71.417401
+rhode island,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,ri,41.82,-71.41
+rhode island,4800,2007,mazda,mazda3,,107000,clean,automatic,,,ri,41.9296,-71.3009
+rhode island,6995,2013,mazda,3,excellent,123000,clean,automatic,sedan,silver,ri,41.877567,-71.409096
+rhode island,5400,2012,mazda,3,like new,176000,clean,automatic,,grey,ri,41.888662,-71.37539
+rhode island,15590,2015,mazda,mazda3 i sv sedan 4d,good,51321,clean,other,sedan,brown,ri,41.82,-71.41
+rhode island,4000,2008,mazda,3,good,175000,clean,other,sedan,black,ri,41.6498,-71.474
+charleston,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,sc,32.78,-79.99
+charleston,4800,2011,mazda,3,excellent,150000,clean,automatic,,,sc,32.829058,-80.041924
+columbia,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,sc,34,-81.03
+florence,6999,2012,mazda,3 i grand touring,excellent,151150,rebuilt,automatic,hatchback,grey,sc,35.0257,-78.9705
+greenville / upstate,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,sc,34.83,-82.37
+greenville / upstate,0,2007,mazda,mazda3,,133711,clean,automatic,sedan,silver,sc,35.275784,-81.534382
+greenville / upstate,8990,2010,mazda,3,excellent,120178,clean,automatic,sedan,white,sc,34.872447,-82.404692
+greenville / upstate,0,2008,mazda,mazda3,,124997,clean,automatic,sedan,blue,sc,35.275784,-81.534382
+greenville / upstate,0,2010,mazda,mazda3,,172513,clean,automatic,sedan,silver,sc,35.275784,-81.534382
+sioux falls / SE SD,4750,2013,mazda,mazda3,,170000,clean,automatic,sedan,silver,sd,42.537373,-96.744147
+clarksville,0,2014,mazda,3,,206198,clean,automatic,,,tn,36.5107,-87.2757
+knoxville,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,tn,35.97,-83.94
+knoxville,5995,2007,mazda,mazda3,,147252,clean,automatic,sedan,,tn,35.950578,-83.913747
+memphis,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,tn,35.1,-90
+memphis,6459,2008,mazda,mazda3,,112083,clean,manual,wagon,blue,tn,35.212885,-89.794298
+nashville,13900,2017,mazda,mazda3 i touring hatchback,like new,70706,clean,automatic,hatchback,black,tn,36.30475,-86.634478
+nashville,5000,2010,mazda,3,good,135000,clean,automatic,sedan,silver,tn,36.124996,-86.752186
+nashville,6999,2013,mazda,mazda3,,168349,,manual,sedan,black,tn,36.138022,-86.732261
+nashville,16990,2015,mazda,mazda3 s grand touring,good,50811,clean,other,sedan,red,tn,36.17,-86.78
+nashville,4900,2009,mazda,3,good,126000,clean,automatic,,,tn,36.0986,-86.8219
+nashville,9300,2012,mazda,mazda3 i,,116518,clean,automatic,,,tn,35.98563,-86.521646
+nashville,13500,2016,mazda,mazda3 sedan automatic i,excellent,119177,,automatic,sedan,,tn,35.987739,-86.523884
+nashville,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,tn,36.17,-86.78
+nashville,13500,2016,mazda,mazda3 sedan automatic i,excellent,119177,,automatic,sedan,,tn,35.987739,-86.523884
+tri-cities,6500,2013,mazda,mazda3,excellent,123500,clean,manual,hatchback,red,tn,36.594967,-82.188463
+tri-cities,4650,2012,mazda,3,,122000,clean,automatic,,,tn,36.310372,-82.435186
+austin,9250,2010,mazda,3 s sport hatchback,good,50164,clean,automatic,hatchback,blue,tx,30.7177,-97.7543
+austin,10500,2013,mazda,3,excellent,34383,clean,manual,sedan,silver,tx,30.506,-97.7472
+austin,6495,2008,mazda,3,,128000,clean,automatic,,,tx,30.249,-97.8414
+austin,5000,2010,mazda,3,,146364,clean,automatic,,white,tx,30.453166,-97.667536
+austin,3500,2007,mazda,3,excellent,159154,clean,manual,,,tx,30.452,-97.698
+austin,7250,2013,mazda,3,like new,117000,clean,automatic,sedan,blue,tx,30.506,-97.7472
+austin,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,tx,30.26,-97.74
+austin,3499,2007,mazda,3,,136000,clean,automatic,,,tx,30.381302,-97.691116
+austin,4995,2008,mazda,3,excellent,177404,clean,manual,sedan,blue,tx,30.2063,-97.7956
+austin,15990,2014,mazda,mazda3 i touring hatchback,good,28647,clean,other,hatchback,,tx,30.26,-97.74
+beaumont / port arthur,16590,2015,mazda,mazda3 i touring hatchback,good,31330,clean,other,hatchback,blue,tx,30.08,-94.14
+beaumont / port arthur,15990,2015,mazda,mazda3 i touring hatchback,good,66175,clean,automatic,hatchback,black,tx,30.08,-94.14
+beaumont / port arthur,22990,2019,mazda,mazda3 preferred hatchback,good,2308,clean,other,hatchback,black,tx,30.08,-94.14
+beaumont / port arthur,21990,2019,mazda,mazda3 premium sedan 4d,good,13858,clean,other,sedan,red,tx,30.08,-94.14
+beaumont / port arthur,13990,2012,mazda,mazda3 s grand touring,good,56326,clean,automatic,hatchback,black,tx,30.08,-94.14
+brownsville,3150,2012,mazda,3,excellent,200000,clean,automatic,sedan,black,tx,25.950376,-97.321693
+corpus christi,13888,2017,mazda,mazda3,,73772,clean,automatic,sedan,custom,tx,27.65787,-97.479816
+corpus christi,13500,2016,mazda,3,excellent,54700,clean,automatic,sedan,white,tx,28.0435,-97.0527
+corpus christi,18928,2018,mazda,mazda3,,30369,clean,automatic,sedan,blue,tx,27.703573,-97.345045
+corpus christi,13888,2017,mazda,mazda3,,73772,clean,automatic,sedan,custom,tx,27.65787,-97.479816
+corpus christi,17990,2018,mazda,mazda3 touring sedan 4d,good,28303,clean,other,sedan,silver,tx,27.8,-97.39
+corpus christi,19901,2018,mazda,mazda3,,19402,clean,automatic,sedan,black,tx,27.703573,-97.345045
+corpus christi,19901,2018,mazda,mazda3,,19402,clean,automatic,sedan,black,tx,27.703573,-97.345045
+corpus christi,14990,2012,mazda,mazda3 i touring sedan 4d,good,39356,clean,automatic,sedan,silver,tx,27.8,-97.39
+corpus christi,7902,2016,mazda,mazda3,,138311,clean,automatic,sedan,custom,tx,27.7061,-97.3537
+dallas / fort worth,2750,2007,mazda,3,good,165000,clean,automatic,,,tx,32.843392,-97.294579
+dallas / fort worth,18990,2016,mazda,mazda3 s grand touring,good,46845,clean,other,hatchback,red,tx,32.79,-96.76
+dallas / fort worth,0,2018,mazda,mazda3,,56616,clean,manual,,white,tx,33.165953,-97.076972
+dallas / fort worth,2500,2005,mazda,3,fair,170748,clean,automatic,hatchback,grey,tx,32.9185,-96.6775
+dallas / fort worth,0,2008,mazda,mazda3,,1,clean,automatic,sedan,black,tx,32.909754,-96.684951
+dallas / fort worth,19990,2018,mazda,mazda3 touring sedan 4d,good,16524,clean,other,sedan,black,tx,33.04,-96.98
+dallas / fort worth,4400,2010,mazda,3,like new,178000,clean,automatic,coupe,blue,tx,32.7503,-96.9723
+dallas / fort worth,5250,2010,mazda,3 i sport,excellent,156000,clean,automatic,sedan,grey,tx,32.932022,-96.74591
+dallas / fort worth,20990,2019,mazda,mazda3 hatchback 4d,good,3824,clean,other,hatchback,white,tx,32.69,-97.12
+dallas / fort worth,7999,2013,mazda,3,,107062,clean,automatic,other,black,tx,32.88015,-96.660423
+el paso,4995,2013,mazda,3,excellent,113000,clean,automatic,,,tx,31.759169,-106.398835
+el paso,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,tx,31.84,-106.43
+el paso,0,2013,mazda,3,,90000,clean,automatic,,,tx,31.738186,-106.373298
+el paso,10995,2011,mazda,3 speed,good,74402,clean,manual,hatchback,black,tx,31.801627,-106.303787
+el paso,0,2012,mazda,mazda3 mazdaspeed3,good,93939,clean,manual,hatchback,black,tx,31.79179,-106.374458
+el paso,11200,2016,mazda,mazda3,good,60225,clean,automatic,sedan,white,tx,31.8383,-106.5364
+el paso,13500,2016,mazda,3,like new,48492,clean,automatic,sedan,black,tx,32.3839,-106.4937
+houston,5900,2012,mazda,3,excellent,102000,rebuilt,automatic,,,tx,29.959126,-95.466717
+houston,13983,2014,mazda,mazda3,,80992,clean,automatic,hatchback,grey,tx,29.784452,-95.656235
+houston,5650,2012,mazda,3,excellent,162110,clean,automatic,sedan,grey,tx,29.687467,-95.298203
+houston,19000,2018,mazda,3,like new,8500,clean,automatic,,silver,tx,29.7517,-95.4054
+houston,599,2016,mazda,3,excellent,71000,clean,automatic,sedan,grey,tx,29.72882,-95.479167
+houston,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,tx,29.76,-95.38
+killeen / temple / ft hood,15990,2015,mazda,mazda3 i touring hatchback,good,66175,clean,automatic,hatchback,black,tx,31.06,-97.65
+killeen / temple / ft hood,15990,2014,mazda,mazda3 i touring hatchback,good,28647,clean,other,hatchback,,tx,31.06,-97.65
+killeen / temple / ft hood,23590,2019,mazda,mazda3 premium sedan 4d,good,14747,clean,other,sedan,white,tx,31.06,-97.65
+killeen / temple / ft hood,22990,2019,mazda,mazda3 preferred hatchback,good,2308,clean,other,hatchback,black,tx,31.06,-97.65
+killeen / temple / ft hood,13990,2012,mazda,mazda3 s grand touring,good,56326,clean,automatic,hatchback,black,tx,31.06,-97.65
+lubbock,5500,2007,mazda,3,good,130177,clean,automatic,sedan,black,tx,33.5693,-101.8904
+odessa / midland,11998,2015,mazda,mazda3,,86841,clean,automatic,,,tx,31.863634,-102.334078
+san antonio,6499,2013,mazda,3,excellent,130000,rebuilt,automatic,sedan,grey,tx,29.478076,-98.58797
+san antonio,18990,2018,mazda,mazda3 sport hatchback 4d,good,21422,clean,other,hatchback,blue,tx,29.45,-98.5
+san antonio,5140,2010,mazda,3,excellent,155000,clean,automatic,,,tx,29.7229,-98.0742
+san antonio,3899,2010,mazda,3,good,220000,clean,automatic,sedan,,tx,29.4492,-98.3446
+san antonio,6985,2010,mazda,mazda3,,108193,clean,automatic,sedan,blue,tx,29.48398,-98.49963
+san antonio,6499,2013,mazda,3,excellent,130000,rebuilt,automatic,sedan,grey,tx,29.478076,-98.58797
+san antonio,6499,2013,mazda,3,excellent,130000,rebuilt,automatic,sedan,grey,tx,29.469668,-98.578005
+san antonio,7990,2011,mazda,mazda3,,110945,clean,manual,sedan,,tx,29.3875,-98.5245
+san antonio,6499,2013,mazda,3,excellent,130000,rebuilt,automatic,sedan,grey,tx,29.478076,-98.58797
+san antonio,6499,2013,mazda,3,excellent,130000,rebuilt,automatic,sedan,grey,tx,29.478076,-98.58797
+san antonio,8800,2011,mazda,3,good,77312,clean,manual,sedan,grey,tx,29.6562,-98.4967
+san antonio,16990,2016,mazda,mazda3 i sport sedan 4d,good,25251,clean,other,sedan,white,tx,29.45,-98.5
+san antonio,7499,2013,mazda,mazda3,excellent,107772,clean,automatic,sedan,silver,tx,29.4388,-98.4935
+san antonio,6999,2013,mazda,3,excellent,130000,rebuilt,automatic,sedan,grey,tx,29.478076,-98.58797
+san antonio,2999,2009,mazda,3,,138000,clean,automatic,,,tx,29.48386,-98.597788
+san antonio,5995,2010,mazda,mazda3,,102770,clean,automatic,sedan,silver,tx,29.4973,-98.4252
+san antonio,4400,2012,mazda,3,excellent,204000,clean,automatic,sedan,black,tx,29.563814,-98.419989
+san antonio,6499,2013,mazda,3,excellent,130000,rebuilt,automatic,sedan,grey,tx,29.478076,-98.58797
+tyler / east TX,20990,2018,mazda,mazda3,,12695,clean,automatic,,white,tx,32.153216,-94.79938
+waco,15990,2015,mazda,mazda3 i touring hatchback,good,66175,clean,automatic,hatchback,black,tx,31.56,-97.18
+waco,15990,2014,mazda,mazda3 i touring hatchback,good,28647,clean,other,hatchback,,tx,31.56,-97.18
+waco,22990,2019,mazda,mazda3 preferred hatchback,good,2308,clean,other,hatchback,black,tx,31.56,-97.18
+waco,13990,2012,mazda,mazda3 s grand touring,good,56326,clean,automatic,hatchback,black,tx,31.56,-97.18
+ogden-clearfield,6500,2013,mazda,3,like new,63000,clean,automatic,,silver,ut,42.393211,-114.52217
+st george,4000,2008,mazda,3,good,139000,salvage,manual,hatchback,grey,ut,37.6775,-113.0619
+vermont,2300,2009,mazda,3,,81400,rebuilt,manual,,,vt,44.5035,-73.0906
+vermont,5800,2012,mazda,3,good,144352,clean,manual,sedan,black,vt,43.6722,-72.3813
+vermont,6999,2012,mazda,3 touring,excellent,101000,clean,automatic,sedan,blue,vt,44.476084,-73.119335
+vermont,3495,2010,mazda,3,,189845,clean,automatic,sedan,black,vt,43.531695,-73.023902
+vermont,2300,2009,mazda,3,,81400,rebuilt,manual,,,vt,44.5035,-73.0906
+charlottesville,5995,2006,mazda,mazda3,,144972,clean,automatic,hatchback,red,va,38.27142,-77.49443
+charlottesville,5900,2010,mazda,mazda3,excellent,111669,clean,automatic,sedan,black,va,38.13406,-78.4344
+fredericksburg,14990,2015,mazda,mazda3 i sv sedan 4d,good,51323,clean,other,sedan,brown,va,38.29,-77.48
+fredericksburg,3695,2008,mazda,3,excellent,166200,clean,automatic,hatchback,grey,va,38.2481,-77.4681
+fredericksburg,1350,2007,mazda,3,fair,188708,clean,manual,,,va,38.483,-77.427
+fredericksburg,3995,2008,mazda,3,excellent,166200,clean,automatic,hatchback,grey,va,38.2481,-77.4681
+fredericksburg,3000,2008,mazda,3,good,128000,clean,manual,,silver,va,38.2951,-77.484
+fredericksburg,5995,2010,mazda,mazda3,,88000,clean,automatic,sedan,black,va,38.270806,-77.495036
+fredericksburg,5995,2010,mazda,mazda3,,88000,clean,automatic,sedan,black,va,38.270806,-77.495036
+fredericksburg,0,2021,mazda,mazda3,,128,clean,automatic,sedan,,va,38.25712,-77.49572
+harrisonburg,4250,2008,mazda,3,good,155000,clean,manual,,silver,va,38.447836,-78.869087
+harrisonburg,14990,2015,mazda,mazda3 i sv sedan 4d,good,51323,clean,other,sedan,brown,va,38.43,-78.87
+harrisonburg,5991,2006,mazda,3 sport hatchback,excellent,142583,clean,automatic,hatchback,silver,va,38.4489,-78.8714
+lynchburg,9499,2013,mazda,mazda3,,130112,clean,automatic,hatchback,red,va,36.024189,-79.802689
+lynchburg,0,2013,mazda,mazda3,,107985,clean,automatic,,,va,37.37974,-79.24707
+lynchburg,3995,2009,mazda,mazda3 i,excellent,111342,rebuilt,automatic,hatchback,blue,va,37.347842,-79.232847
+norfolk / hampton roads,7900,2012,mazda,mazda3 i sport 4-door,excellent,72000,clean,automatic,,,va,36.914995,-76.246974
+norfolk / hampton roads,5900,2010,mazda,mazda3 i sport 4-door,excellent,122000,clean,automatic,,,va,36.914995,-76.246974
+norfolk / hampton roads,3600,2005,mazda,3,good,189000,clean,automatic,sedan,silver,va,36.9356,-76.3034
+norfolk / hampton roads,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,va,36.67,-76.3
+norfolk / hampton roads,4500,2011,mazda,3,excellent,145000,clean,automatic,sedan,red,va,36.8282,-76.0237
+norfolk / hampton roads,6000,2011,mazda,mazda3,good,135361,clean,automatic,sedan,grey,va,36.870075,-76.22512
+norfolk / hampton roads,3500,2006,mazda,3,good,180000,clean,automatic,,black,va,36.9806,-76.6349
+norfolk / hampton roads,7900,2012,mazda,mazda3 i sport 4-door,excellent,72000,clean,automatic,,,va,36.914995,-76.246974
+richmond,6300,2010,mazda,3,excellent,83754,clean,manual,sedan,black,va,37.631,-77.546
+richmond,11500,2016,mazda,3,good,100900,clean,automatic,sedan,blue,va,37.3429,-77.4156
+richmond,3695,2008,mazda,3,excellent,166200,clean,manual,hatchback,grey,va,38.2481,-77.4681
+richmond,3995,2008,mazda,3,excellent,166200,clean,manual,hatchback,grey,va,38.2481,-77.4681
+richmond,0,2021,mazda,mazda3,,128,clean,automatic,sedan,,va,38.25712,-77.49572
+roanoke,7490,2014,mazda,3 i touring,excellent,122065,clean,automatic,sedan,black,va,37.272429,-79.949997
+roanoke,4990,2011,mazda,3 s,excellent,138889,clean,manual,hatchback,silver,va,37.272429,-79.949997
+winchester,5991,2006,mazda,3 sport hatchback,excellent,142583,clean,automatic,hatchback,silver,va,38.9268,-78.1796
+winchester,2500,2007,mazda,3,good,230000,clean,automatic,sedan,black,va,38.9884,-78.3386
+bellingham,4000,2007,mazda,3,good,191319,clean,automatic,hatchback,grey,wa,48.790897,-122.482195
+bellingham,12495,2011,mazda,mazda3 mazdaspeed3 sport hatchback 4d,,101797,,manual,hatchback,black,wa,48.901032,-122.485109
+bellingham,7995,2015,mazda,mazda3 i sport sedan 4d,,96052,,automatic,sedan,blue,wa,48.901032,-122.485109
+bellingham,12495,2011,mazda,mazda3 mazdaspeed3 sport hatchback 4d,,101797,,manual,hatchback,black,wa,48.901032,-122.485109
+bellingham,7995,2015,mazda,mazda3 i sport sedan 4d,,96052,,automatic,sedan,blue,wa,48.901032,-122.485109
+bellingham,3950,2007,mazda,mazda3 i sport,good,180000,clean,automatic,,,wa,48.756441,-122.456123
+bellingham,18999,2018,mazda,3,like new,54000,clean,automatic,hatchback,grey,wa,48.79316,-122.499447
+bellingham,5475,2010,mazda,mazda3,,169072,clean,automatic,sedan,black,wa,48.42198,-122.34586
+bellingham,17632,2017,mazda,mazda3,,55989,clean,manual,sedan,,wa,48.754189,-122.464947
+bellingham,15800,2018,mazda,3,good,42000,rebuilt,automatic,,white,wa,48.7974,-122.4448
+bellingham,14993,2017,mazda,mazda3 5-door,,52469,clean,automatic,hatchback,blue,wa,48.460843,-122.343504
+bellingham,12495,2011,mazda,mazda3 mazdaspeed3 sport hatchback 4d,,101797,,manual,hatchback,black,wa,48.901032,-122.485109
+bellingham,7995,2015,mazda,mazda3 i sport sedan 4d,,96052,,automatic,sedan,blue,wa,48.901032,-122.485109
+bellingham,13199,2017,mazda,mazda3,,68775,clean,manual,sedan,,wa,47.757996,-122.346056
+bellingham,16749,2017,mazda,mazda3,,54321,clean,automatic,hatchback,,wa,47.757996,-122.346056
+kennewick-pasco-richland,9990,2013,mazda,3,,97199,clean,automatic,,,wa,46.207557,-119.11703
+kennewick-pasco-richland,16500,2018,mazda,3,excellent,47000,clean,automatic,sedan,silver,wa,46.074625,-119.086144
+kennewick-pasco-richland,0,2004,mazda,mazda3,,147274,clean,automatic,hatchback,blue,wa,47.656773,-117.218613
+kennewick-pasco-richland,9990,2013,mazda,3,,97199,clean,automatic,,,wa,46.207557,-119.11703
+kennewick-pasco-richland,4500,2006,mazda,3,excellent,120000,clean,manual,sedan,silver,wa,46.2111,-119.2198
+kennewick-pasco-richland,9990,2013,mazda,3,,97199,clean,automatic,,,wa,46.207557,-119.11703
+kennewick-pasco-richland,9990,2013,mazda,3,,97199,clean,automatic,,,wa,46.207557,-119.11703
+kennewick-pasco-richland,9980,2011,mazda,mazda3,,131239,clean,automatic,sedan,black,wa,47.692931,-117.411632
+kennewick-pasco-richland,9990,2013,mazda,3,,97199,clean,automatic,,,wa,46.207557,-119.11703
+kennewick-pasco-richland,9990,2013,mazda,3,,97199,clean,automatic,,,wa,46.207557,-119.11703
+kennewick-pasco-richland,9990,2013,mazda,3,,97199,clean,automatic,,,wa,46.207557,-119.11703
+kennewick-pasco-richland,9990,2013,mazda,3,,97199,clean,automatic,,,wa,46.207557,-119.11703
+kennewick-pasco-richland,0,2010,mazda,mazda3,,135686,clean,automatic,sedan,blue,wa,47.692931,-117.411632
+kennewick-pasco-richland,9990,2013,mazda,3,,97199,clean,automatic,,,wa,46.207557,-119.11703
+kennewick-pasco-richland,9990,2013,mazda,3,,97199,clean,automatic,,,wa,46.207557,-119.11703
+kennewick-pasco-richland,9990,2013,mazda,3,,97199,clean,automatic,,,wa,46.207557,-119.11703
+moses lake,0,2004,mazda,mazda3,,147274,clean,automatic,hatchback,blue,wa,47.656773,-117.218613
+moses lake,9980,2011,mazda,mazda3,,131239,clean,automatic,sedan,black,wa,47.692931,-117.411632
+moses lake,9980,2011,mazda,mazda3,,131239,clean,automatic,sedan,black,wa,47.692931,-117.411632
+moses lake,0,2010,mazda,mazda3,,135686,clean,automatic,sedan,blue,wa,47.692931,-117.411632
+moses lake,0,2010,mazda,mazda3,,135686,clean,automatic,sedan,blue,wa,47.692931,-117.411632
+seattle-tacoma,243,2018,mazda,mazda3 sport,,23460,clean,manual,sedan,,wa,47.895309,-122.252909
+seattle-tacoma,355,2020,mazda,mazda3 preferred,,4500,clean,automatic,hatchback,,wa,47.895309,-122.252909
+seattle-tacoma,7995,2010,mazda,mazda3 i touring,,73283,clean,manual,sedan,red,wa,47.687997,-122.344792
+seattle-tacoma,6499,2013,mazda,mazda3 i sport,,148107,clean,automatic,sedan,grey,wa,47.745162,-122.344962
+seattle-tacoma,13988,2014,mazda,mazda3 i sport,good,65253,clean,other,sedan,white,wa,47.4734,-122.335
+seattle-tacoma,7999,2011,mazda,mazda3,,105341,clean,automatic,sedan,black,wa,47.75695,-122.21223
+seattle-tacoma,13199,2017,mazda,mazda3 sport,,68775,clean,manual,sedan,,wa,47.757996,-122.346056
+seattle-tacoma,16749,2017,mazda,mazda3 sport,,54321,clean,automatic,hatchback,,wa,47.757996,-122.346056
+seattle-tacoma,7999,2010,mazda,mazda3 s sport,,121156,clean,manual,sedan,,wa,47.757996,-122.346056
+seattle-tacoma,5500,2009,mazda,3,good,95810,clean,manual,wagon,black,wa,47.553748,-122.266159
+seattle-tacoma,14999,2015,mazda,3 grand touring fwd gas,,91648,clean,automatic,hatchback,white,wa,47.206063,-122.320587
+seattle-tacoma,0,2019,mazda,mazda3 sedan base,,8654,clean,automatic,sedan,,wa,47.050554,-122.79562
+seattle-tacoma,407,2020,mazda,mazda3 select,,3856,clean,automatic,sedan,,wa,47.895309,-122.252909
+seattle-tacoma,6995,2007,mazda,3,excellent,112531,clean,automatic,sedan,grey,wa,47.7918,-122.2243
+seattle-tacoma,0,2015,mazda,mazda3 i touring,,12856,clean,manual,hatchback,,wa,47.166808,-122.483522
+seattle-tacoma,5349,2008,mazda,mazda3 s touring,,179813,clean,automatic,wagon,grey,wa,47.745162,-122.344962
+seattle-tacoma,4495,2008,mazda,mazda3,excellent,153892,clean,manual,,,wa,46.125486,-122.93551
+seattle-tacoma,9988,2011,mazda,mazda3 s grand touring,good,134889,clean,other,sedan,black,wa,47.4734,-122.335
+seattle-tacoma,3999,2005,mazda,mazda3 s 5-door,good,240000,clean,other,,,wa,47.8613,-122.285
+seattle-tacoma,239,2018,mazda,mazda3 5-door,,28264,clean,automatic,hatchback,,wa,47.797088,-122.333536
+seattle-tacoma,8000,2015,mazda,3 itouring,good,96198,clean,manual,sedan,grey,wa,47.6733,-122.3426
+seattle-tacoma,16488,2017,mazda,mazda3,,49002,clean,automatic,sedan,,wa,47.843936,-122.294724
+skagit / island / SJI,11000,2013,mazda,3,excellent,91000,clean,manual,hatchback,grey,wa,48.5274,-122.2329
+skagit / island / SJI,5475,2010,mazda,mazda3,,169072,clean,automatic,sedan,black,wa,48.42198,-122.34586
+skagit / island / SJI,14993,2017,mazda,mazda3 5-door,,52469,clean,automatic,hatchback,blue,wa,48.460843,-122.343504
+skagit / island / SJI,5475,2010,mazda,mazda3,,169072,clean,automatic,sedan,black,wa,48.42198,-122.34586
+wenatchee,24999,2020,mazda,3 select fwd gas sedan,,15160,clean,automatic,sedan,white,wa,47.841211,-122.297249
+yakima,3995,2008,mazda,3,,167,clean,automatic,,,wa,46.5934,-120.5311
+appleton-oshkosh-FDL,16495,2018,mazda,mazda3,,65340,clean,automatic,,silver,wi,44.244038,-88.5989
+appleton-oshkosh-FDL,11895,2014,mazda,mazda3,excellent,60291,clean,automatic,hatchback,white,wi,44.52039,-88.06645
+eau claire,10800,2019,mazda,3 select,,9651,clean,automatic,sedan,black,wi,44.408989,-89.881382
+green bay,11895,2014,mazda,mazda3,excellent,60291,clean,automatic,hatchback,white,wi,44.52039,-88.06645
+green bay,10800,2019,mazda,3 select,,9651,clean,automatic,sedan,black,wi,44.408989,-89.881554
+green bay,7995,2010,mazda,mazda3,good,119853,clean,manual,hatchback,black,wi,44.50021,-88.32867
+kenosha-racine,4999,2010,mazda,mazda3,like new,147524,clean,automatic,hatchback,,wi,43.1188,-87.9478
+kenosha-racine,4299,2010,mazda,mazda3,like new,111206,clean,automatic,sedan,,wi,42.57992,-87.820874
+kenosha-racine,3999,2011,mazda,3,like new,156359,clean,automatic,sedan,,wi,43.1188,-87.9478
+madison,15888,2017,mazda,mazda3,,19018,clean,automatic,sedan,silver,wi,43.1205,-89.3523
+madison,16990,2015,mazda,mazda3 s grand touring,good,50811,clean,other,sedan,red,wi,43.07,-89.38
+madison,8788,2009,mazda,3,excellent,72749,clean,manual,,red,wi,43.013722,-88.808027
+madison,7588,2012,mazda,3,excellent,109740,clean,automatic,,black,wi,43.013722,-88.808027
+madison,10800,2019,mazda,3 select,,9651,clean,automatic,sedan,black,wi,44.408867,-89.881725
+madison,8788,2009,mazda,3,excellent,72749,clean,manual,,red,wi,43.013722,-88.808027
+madison,7588,2012,mazda,3,excellent,109740,clean,automatic,,black,wi,43.013722,-88.808027
+madison,2600,2006,mazda,3,good,141000,clean,manual,sedan,silver,wi,43.0844,-89.3072
+milwaukee,7995,2009,mazda,3,excellent,84000,clean,automatic,sedan,black,wi,43.104985,-88.076379
+milwaukee,2600,2008,mazda,3,good,139000,clean,automatic,,,wi,43.1154,-88.0346
+milwaukee,1300,2005,mazda,mazda3,,1,clean,automatic,hatchback,blue,wi,41.622595,-87.633814
+milwaukee,1700,2008,mazda,mazda3,,1,clean,automatic,sedan,black,wi,41.622595,-87.633814
+milwaukee,1300,2005,mazda,mazda3,,1,clean,automatic,sedan,,wi,41.622595,-87.633814
+milwaukee,18990,2018,mazda,mazda3 touring sedan 4d,good,18553,clean,other,sedan,white,wi,43.06,-87.96
+milwaukee,3950,2006,mazda,3,excellent,113000,clean,manual,,red,wi,42.9949,-88.0364
+milwaukee,2200,2008,mazda,3 hatchback,good,237020,clean,automatic,,black,wi,43.1154,-88.0346
+milwaukee,1700,2005,mazda,3,,108805,clean,manual,hatchback,purple,wi,43.1191,-87.9587
+milwaukee,2500,2006,mazda,3,,180000,clean,automatic,,,wi,43.0828,-88.0269
+milwaukee,4999,2010,mazda,mazda3,like new,147524,clean,automatic,hatchback,,wi,43.1188,-87.9478
+milwaukee,4299,2010,mazda,mazda3,like new,111206,clean,automatic,sedan,,wi,42.57992,-87.820874
+milwaukee,4000,2013,mazda,3,,117000,rebuilt,manual,,,wi,42.9047,-88.1214
+wausau,5000,2006,mazda,3,excellent,125000,clean,automatic,sedan,silver,wi,44.3758,-89.8062
+wausau,18590,2017,mazda,mazda3 touring 2.5,good,34723,clean,other,hatchback,blue,wi,44.96,-89.64
+wausau,5495,2008,mazda,3,,80238,clean,automatic,,,wi,45.180579,-89.665668
+wausau,7500,2012,mazda,3 i touring,,91114,clean,automatic,coupe,black,wi,44.7065,-89.6862
+wausau,10800,2019,mazda,3 select,,9651,clean,automatic,sedan,black,wi,44.408621,-89.882069
