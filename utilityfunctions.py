@@ -22,7 +22,8 @@ def minmaxLocal(data):
     "Local max-min normalization."
     scaleTransform = np.eye(data.shape[1], data.shape[1])
     for i in range(data.shape[1]):
-        scaleTransform[i, i] = 1 / (data[:, i].max() - data[:, i].min())
+        if data[:, i].max() - data[:, i].min() != 0:
+            scaleTransform[i, i] = 1 / (data[:, i].max() - data[:, i].min())
     return (scaleTransform@data.T).T
 
 def zScore(data):
