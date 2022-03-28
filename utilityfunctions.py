@@ -121,3 +121,53 @@ def predict(data, independent, c):
     # We add a column of 1s for the intercept
     A = np.hstack((np.array([np.ones(x.shape[0])]).T, x))
     return np.dot(A, c)
+
+# Let's split off the labels
+def split(data, ycol):
+    y = data[:, ycol]
+    xfirst = data[:, 0:ycol]
+    xsecond = data[:, ycol+1:data.shape[1]]
+    return (np.hstack((xfirst, xsecond)), y)
+
+# center
+def center(data):
+    centered = data - np.mean(data, axis=0)
+    return centered
+
+# preprocess
+def preprocess(data, minmax=False, local=False, zscore=False):
+    if minmax == True and zscore == True:
+        print("Nope, won't do that!")
+        return center(data)
+    elif zscore == True:
+        return zScore(data)   
+    elif minmax == True:
+        if local == False:
+            data = minmaxGlobal(data)
+        else:
+            data = minmaxLocal(data)
+    return center(data)
+
+# This is most of the code from Day 19 in one function; it fits a PCA and prints out all kinds of things along the way
+def pca_with_plots(data):
+    # covariance
+    covariance_matrix = (data.T @ data) / (data.shape[0] - 1)
+    print("covariance matrix")
+    print(covariance_matrix.shape)
+
+    # svd
+    (evals, evectors) = np.linalg.eig(covariance_matrix)
+
+    # sort
+    evals_order = np.argsort(evals)[::-1]
+    evals_sorted = evals[evals_order]
+    evectors_sorted = evectors[:, evals_order]
+
+    # proportional variance
+    evals_sum = np.sum(evals_sorted)
+    proportional_vars = [e / evals_sum for e in evals_sorted]
+
+    # cumulative sum of proportional variance
+    cumulative_sum = np.cumsum(proportional_vars)
+    
+    return evals_sorted, evectors_sorted
