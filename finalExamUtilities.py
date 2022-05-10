@@ -10,9 +10,9 @@ from sklearn.cluster import KMeans
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import confusion_matrix, roc_auc_score, roc_curve
 
-def getSummaryStatistics(data):
+def getSummaryStatistics(data, columns):
     "Get the max, min, mean, std for each variable in the data."
-    return pd.DataFrame(np.array([data.max(axis=0), data.min(axis=0), data.mean(axis=0), np.sqrt(data.var(axis=0))]))
+    return pd.DataFrame(np.array([data.max(axis=0), data.min(axis=0), data.mean(axis=0), np.sqrt(data.var(axis=0))]), columns=columns)
 
 # Random shuffle
 def randomSplit(data, depVar, indVars):
@@ -369,6 +369,7 @@ def fitExploreKMeans(data, minK, maxK, byK):
     fig = plt.figure(figsize=(6,4))
     inertiaByK = np.array(inertiaByK)
     plt.plot(inertiaByK[:, 0], inertiaByK[:, 1])
+    plt.xticks([x[0] for x in inertiaByK])
     plt.xlabel('k')
     plt.ylabel('Inertia')
     plt.title('Elbow Plot')
@@ -384,7 +385,7 @@ def fitExploreKNN(train, trainY, dev, devY, minK, maxK, byK):
     fig = plt.figure(figsize=(6,4))
     accuracyByK = np.array(accuracyByK)
     plt.plot(accuracyByK[:, 0], accuracyByK[:, 1])
-    plt.xticks(range(maxK+minK))
+    plt.xticks([x[0] for x in accuracyByK])
     plt.xlabel('k')
     plt.ylabel('Accuracy')
     plt.title('Elbow Plot')
