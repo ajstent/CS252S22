@@ -1,0 +1,20 @@
+2023-03-10 02:36:50,304 INFO    MainThread:15255 [wandb_setup.py:_flush():76] Configure stats pid to 15255
+2023-03-10 02:36:50,304 INFO    MainThread:15255 [wandb_setup.py:_flush():76] Loading settings from /home/codespace/.config/wandb/settings
+2023-03-10 02:36:50,304 INFO    MainThread:15255 [wandb_setup.py:_flush():76] Loading settings from /workspaces/CS252S22/wandb/settings
+2023-03-10 02:36:50,304 INFO    MainThread:15255 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-03-10 02:36:50,305 INFO    MainThread:15255 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-03-10 02:36:50,305 INFO    MainThread:15255 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-03-10 02:36:50,305 INFO    MainThread:15255 [wandb_init.py:_log_setup():506] Logging user logs to /workspaces/CS252S22/wandb/run-20230310_023650-cflpvwrt/logs/debug.log
+2023-03-10 02:36:50,305 INFO    MainThread:15255 [wandb_init.py:_log_setup():507] Logging internal logs to /workspaces/CS252S22/wandb/run-20230310_023650-cflpvwrt/logs/debug-internal.log
+2023-03-10 02:36:50,305 INFO    MainThread:15255 [wandb_init.py:_jupyter_setup():452] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f02888d25f0>
+2023-03-10 02:36:50,306 INFO    MainThread:15255 [wandb_init.py:init():546] calling init triggers
+2023-03-10 02:36:50,306 INFO    MainThread:15255 [wandb_init.py:init():552] wandb.init called with sweep_config: {}
+config: {'architecture': 'regression', 'dataset': 'hyundaikia', 'split': 20, 'features': (3, 8)}
+2023-03-10 02:36:50,306 INFO    MainThread:15255 [wandb_init.py:init():602] starting backend
+2023-03-10 02:36:50,306 INFO    MainThread:15255 [wandb_init.py:init():606] setting up manager
+2023-03-10 02:36:50,310 INFO    MainThread:15255 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-03-10 02:36:50,311 INFO    MainThread:15255 [wandb_init.py:init():613] backend started and connected
+2023-03-10 02:36:50,312 INFO    MainThread:15255 [wandb_run.py:_label_probe_notebook():1202] probe notebook
+2023-03-10 02:36:50,312 INFO    MainThread:15255 [wandb_run.py:_label_probe_notebook():1212] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-03-10 02:36:50,313 INFO    MainThread:15255 [wandb_init.py:init():701] updated telemetry
+2023-03-10 02:36:50,329 INFO    MainThread:15255 [wandb_init.py:init():741] communicating run to backend with 60.0 second timeout

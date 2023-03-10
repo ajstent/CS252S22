@@ -1,0 +1,46 @@
+{
+    "os": "Linux-5.4.0-1104-azure-x86_64-with-glibc2.31",
+    "python": "3.10.4",
+    "heartbeatAt": "2023-03-10T02:36:47.255727",
+    "startedAt": "2023-03-10T02:36:46.053646",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/ajstent/CS252S22",
+        "commit": "91bec9067d85bd04d47155fbf0b16d4e8e0f43ad"
+    },
+    "email": "amanda.stent@gmail.com",
+    "root": "/workspaces/CS252S22",
+    "host": "codespaces-fe056f",
+    "username": "codespace",
+    "executable": "/home/codespace/.python/current/bin/python3",
+    "cpu_count": 1,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 2593.906,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2593.906,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.906,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 31.32598876953125,
+        "used": 11.480033874511719
+    },
+    "memory": {
+        "total": 3.8400115966796875
+    }
+}
