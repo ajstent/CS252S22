@@ -310,7 +310,7 @@ def prepData(type="regression", dataName="beans", fractionToKeep=1.0):
     print("\nInspect the data")
     print("data shape\n", data.shape, "\ndata type\n", data.dtype)
     print("missing data: none")
-    print("data max, min, mean, std\n", getSummaryStatistics(data))
+    print("data max, min, mean, std\n", getSummaryStatistics(data, columns))
     if not columnsToPlot:
         columnsToPlot = columns
     if depVar != -1:
@@ -328,17 +328,17 @@ def prepData(type="regression", dataName="beans", fractionToKeep=1.0):
         # Split the data, reducing it if necessary
         print("\nSplit the data, dependent variable ", depVar, ", to keep ", fractionToKeep)
         train, dev, test, trainY, devY, testY = stratifiedSplit(data, depVar, indVars, numberValsToKeep=fractionToKeep)
-        print("training data shape", "\n", train.shape, "\ntraining data max, min, mean, std\n", getSummaryStatistics(train))
-        print("\ndev data shape", "\n", dev.shape, "\ndev data max, min, mean, std\n", getSummaryStatistics(dev))
-        print("\ntest data shape", "\n", test.shape, "\ntest data max, min, mean, std\n", getSummaryStatistics(test))
+        print("training data shape", "\n", train.shape, "\ntraining data max, min, mean, std\n", getSummaryStatistics(train, columns))
+        print("\ndev data shape", "\n", dev.shape, "\ndev data max, min, mean, std\n", getSummaryStatistics(dev, columns))
+        print("\ntest data shape", "\n", test.shape, "\ntest data max, min, mean, std\n", getSummaryStatistics(test, columns))
         # Transform the data
         print("\nTransform the data")
         translateTransform, scaleTransform, trainTransformed = zScore(train)
-        print("training data shape", "\n", trainTransformed.shape, "\ntraining data max, min, mean, std\n", getSummaryStatistics(trainTransformed))
+        print("training data shape", "\n", trainTransformed.shape, "\ntraining data max, min, mean, std\n", getSummaryStatistics(trainTransformed, columns))
         _, _, devTransformed = zScore(dev, translateTransform=translateTransform, scaleTransform=scaleTransform)
-        print("\ndev data shape", "\n", devTransformed.shape, "\ndev data max, min, mean, std\n", getSummaryStatistics(devTransformed))
+        print("\ndev data shape", "\n", devTransformed.shape, "\ndev data max, min, mean, std\n", getSummaryStatistics(devTransformed, columns))
         _, _, testTransformed = zScore(test, translateTransform=translateTransform, scaleTransform=scaleTransform)
-        print("\ntest data shape", "\n", testTransformed.shape, "\ntest data max, min, mean, std\n", getSummaryStatistics(testTransformed))
+        print("\ntest data shape", "\n", testTransformed.shape, "\ntest data max, min, mean, std\n", getSummaryStatistics(testTransformed, columns))
         return trainTransformed, devTransformed, testTransformed, trainY, devY, testY, columns
     else:
         # Reduce the data if necessary
@@ -347,9 +347,9 @@ def prepData(type="regression", dataName="beans", fractionToKeep=1.0):
             data, _ = np.split(data, [int(fractionToKeep*len(data))])
         # Transform the data
         print("\nTransform the data")
-        print("data shape", "\n", data.shape, "\ndata max, min, mean, std\n", getSummaryStatistics(data))
+        print("data shape", "\n", data.shape, "\ndata max, min, mean, std\n", getSummaryStatistics(data, columns))
         translateTransform, scaleTransform, transformed = zScore(data)
-        print("data shape", "\n", transformed.shape, "\ndata max, min, mean, std\n", getSummaryStatistics(transformed))
+        print("data shape", "\n", transformed.shape, "\ndata max, min, mean, std\n", getSummaryStatistics(transformed, columns))
         return transformed, columns
     
 def projectData(data, principalComponents, columns, *args):
